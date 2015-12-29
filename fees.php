@@ -10,18 +10,18 @@
         </div>
     <!-- Fees -->
         <div class="row db-padding-btm db-attached">
-            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
                 <div class="db-wrapper">
                     <div class="db-pricing-eleven db-bk-color-one">
                         <div class="price">
-                            <sup>LE</sup>500
-                                <small>Standard Booking</small>
+                            <sup>~</sup>50%
+                                <small>Discount Booking</small>
                         </div>
                         <div class="type">
-                            Author <small>(Egyptian)</small>
+                            Attendee (Participant)
                         </div>
                         <ul>
-                            <li><i class="glyphicon glyphicon-usd"></i>In case of early booking : LE 450 *</li>
+                            <li><i class="glyphicon glyphicon-usd"></i>Attendees' Special: 50% OFF</li>
                         </ul>
                         <div class="pricing-footer">
 
@@ -30,7 +30,27 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                <div class="db-wrapper">
+		    <div class="db-pricing-eleven db-bk-color-two popular">
+                        <div class="price">
+                            <sup>LE</sup>600
+                                <small>Standard Booking</small>
+                        </div>
+                        <div class="type">
+                            Author <small>(Egyptian)</small>
+                        </div>
+                        <ul>
+                            <li><i class="glyphicon glyphicon-usd"></i>In case of early booking : LE 550 *</li>
+                        </ul>
+                        <div class="pricing-footer">
+
+                            <a href="registration.php" class="btn db-button-color-square btn-lg">BOOK Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
                  <div class="db-wrapper">
                 <div class="db-pricing-eleven db-bk-color-two popular">
                     <div class="price">
@@ -51,18 +71,18 @@
                 </div>
                      </div>
             </div>
-            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
                  <div class="db-wrapper">
                 <div class="db-pricing-eleven db-bk-color-three">
                     <div class="price">
                         <sup>~</sup>75%
-                                <small>Standard Booking</small>
+                                <small>Discount Booking</small>
                     </div>
                     <div class="type">
-                        <small>Undergrad Student</small>
+                        <small>Academic Student</small>
                     </div>
                     <ul>
-                        <li><i class="glyphicon glyphicon-usd"></i>Undergrad Student Authors' Special: 75% Discount***</li>
+                        <li><i class="glyphicon glyphicon-usd"></i>Students' Special: 75% OFF***</li>
                     </ul>
                     <div class="pricing-footer">
                     	<a href="registration.php" class="btn db-button-color-square btn-lg">BOOK Now</a>
@@ -77,7 +97,7 @@
             <div class="col-md-9">
                 <h3>Early booking delegates: <small>registered on or before 31 March, 2016*</small></h3>
                 <h3>Standard delegates: <small>booking after 15 August, 2016**</small></h3>
-                <h3>Student Authors: <small> will be required to provide proof being an undergraduate student***</small></h3>
+                <h3>Student Authors: <small> will be required to provide proof being an academic student***</small></h3>
                 <h2 class="purple">Registration fee includes</h2>
                 <ul>
                     <li><h3>Access to all conference and poster sessions</h3></li>
