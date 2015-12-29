@@ -94,7 +94,7 @@
 			    <div class="panel-heading" role="tab" id="headingOne">
 			      <h4 class="panel-title">
 			        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-			          <b>Power and Energy Engineering</b>
+			          <b>Power Engineering</b>
 			        </a>
 			      </h4>
 			    </div>
@@ -154,6 +154,7 @@
 			      		<li>Energy and Sustainable Development</li>
 			      		<li>Green Energy Technologies</li>
 			      		<li>Energy and Environment</li>
+			      		<li>Energy Economics</li>
 			      		<li>Clean Transportation Fuels</li>
 			      		<li>Energy challenges in the urbanization process</li>
 			      		<li>Building Efficiency Technologies</li>
@@ -176,6 +177,7 @@
                 <b>
 			      		<li>Energy Audit and On-site Measurement</li>
 			      		<li>Energy Management & Policies</li>
+			      		<li>Energy Supply & Climate Change</li>
 			      		<li>Energy Analysis & Energy Efficiency</li>
 			      		<li>Energy Sustainability in developing countries</li>
 			      		<li>National Energy Strategy and Decision making</li>
