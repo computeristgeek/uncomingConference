@@ -22,7 +22,7 @@
 		    <div class="col-xs-12">&nbsp;</div>
 		    <div class="col-xs-12">
 			    <div class="row">
-			    <div class="col-xs-12 col-md-8 shaded shadedBlock" id="organized" style="display:inline;"><span>Organized by Pharos University in Alexandria with the cooperation of the KTH Swedish Royal Institute of Technology, Department of Energy Technology</span> </div>
+			    <div class="col-xs-12 col-md-8 shaded shadedBlock" id="organized" style="display:inline;"><span>Organized by Pharos University in Alexandria with the cooperation of the KTH, the Royal Institute of Technology, Sweden</span> </div>
 			    <div class="col-xs-6 col-md-2 shaded shadedBlockImage"><span><a href="http://www.pua.edu.eg"><img src="img/logo-Arabic.png" /></a></span></div>
 			    <div class="col-xs-6 col-md-2 shaded shadedBlockImage"><span><a href="https://www.kth.se/en"><img src="img/images.png" /></a></span></div>
 			    </div>
