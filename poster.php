@@ -17,6 +17,12 @@
 	<div class="container">
 		<div class="row">
 			<div class="page-header">
+				<h1>Poster and Extended Abstract Guidelines</h1>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="page-header">
 				<h1>Poster Guidelines</h1>
 			</div>
 		</div>
@@ -30,7 +36,7 @@
 				</ul>
 				<h2>Poster Layout Instructions</h2>
 				<ul>
-					<li><strong>Each author will have net MAXIMUM useable space in a portrait/vertical format that measures 33" (0.8 m) wide x 43" (1.1 m) high on a large display board.</strong></li>
+					<li><strong>Each author will have net MAXIMUM useable space in a portrait/vertical format that measures A0 which is 33.1" (0.841 m) wide x 46.8" (1.189 m) high on a large display board.</strong></li>
 					<li><strong>Materials should be mounted on thin, glossy colored poster paper or cardboard and mounted on the poster board under the assigned poster number that will be posted on your board prior to setup provided.</strong></li>
 					<li><strong>Posters should be readable from a distance of 1-2 meters. Therefore, your text must be not less than 16 points to enable easy reading.</strong></li>
 				</ul>
