@@ -243,8 +243,8 @@
           	<tr><th>Date</th><th>Event</th></tr>
           	<tr><td>February 15, 2016</td><td>Abstract Submission Deadline</td></tr>
           	<tr><td>March 20, 2016</td><td>Last Notification for Abstract Acceptance*</td></tr>
-          	<tr><td>May 15, 2016</td><td>Full Paper Submission Deadline</td></tr>
-          	<tr><td>July 15, 2016</td><td>Last Notification for Full-Paper Acceptance**</td></tr>
+          	<tr><td>May 15, 2016</td><td>Extended Abstract Submission Deadline</td></tr>
+          	<tr><td>July 15, 2016</td><td>Last Notification for Extended Abstract Acceptance**</td></tr>
           	<tr><td>August 15, 2016</td><td>Payment Deadline</td></tr>
           	<tr><td>August 31, 2016</td><td>Letter of Final Acceptance***</td></tr>
           	<tr><td>September 15, 2016</td><td>Conference Program</td></tr>
@@ -253,7 +253,7 @@
       <h4>
         *Acceptance is issued once a positive feedback is received from the reviewing committee<br>
         **Late payment fees are mandatory after this date<br>
-        ***Will not be issued without completing the fees, and approval of the Full-Paper
+        ***Will not be issued without completing the fees, and approval of the Extended Abstract
       </h4>
         </div>
         <div class="col-md-2">

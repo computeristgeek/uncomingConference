@@ -39,15 +39,15 @@
 			</div>
 			<div class="col-md-5"><img class="img-responsive" src="img/poster.jpg"></div>
 		</div>
-		<div class="row" id="paperGuidelines">
+		<div class="row" id="exAbstractGuidelines">
 			<div class="page-header">
-				  <h1>Paper Guidelines</h1>
+				  <h1>Extended Abstract Guidelines</h1>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-7">
-				<h2>Paper Template</h2>
-				<p><strong>Please follow the IEEE Standard template for you paper submission.</strong> <a class="btn btn-xs btn-info" href="paper_template.doc">Click here</a> <strong>to download the template.</strong></p>
+				<h2>Extended Abstract Template</h2>
+				<p><strong>Please follow the IEEE Standard template for you extended abstract submission.</strong> <a class="btn btn-xs btn-info" href="exabstract_template.doc">Click here</a> <strong>to download the template.</strong></p>
 			</div>
 			<div class="col-md-5"><img class="img-responsive img-thumbnail" src="img/paper_temp.jpg"></div>
 		</div>
