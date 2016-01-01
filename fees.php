@@ -21,7 +21,7 @@
                             Attendee (Participant)
                         </div>
                         <ul>
-                            <li><i class="glyphicon glyphicon-usd"></i>Attendees' Special: 50% OFF</li>
+                            <li>Attendees' Special: 50% OFF</li>
                         </ul>
                         <div class="pricing-footer">
 
@@ -41,7 +41,7 @@
                             Author <small>(Egyptian)</small>
                         </div>
                         <ul>
-                            <li><i class="glyphicon glyphicon-usd"></i>In case of early booking : LE 550 *</li>
+                            <li>In case of early booking : LE 550 *</li>
                         </ul>
                         <div class="pricing-footer">
 
@@ -62,7 +62,7 @@
                     </div>
                     <ul>
 
-                        <li><i class="glyphicon glyphicon-usd"></i>In case of early booking : $ 450 *</li>
+                        <li>In case of early booking : $ 450 *</li>
                     </ul>
                     <div class="pricing-footer">
 
@@ -82,7 +82,7 @@
                         <small>Academic Student</small>
                     </div>
                     <ul>
-                        <li><i class="glyphicon glyphicon-usd"></i>Students' Special: 75% OFF***</li>
+                        <li>Students' Special: 75% OFF***</li>
                     </ul>
                     <div class="pricing-footer">
                     	<a href="registration.php" class="btn db-button-color-square btn-lg">BOOK Now</a>
