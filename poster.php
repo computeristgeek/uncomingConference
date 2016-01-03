@@ -53,7 +53,7 @@
 		<div class="row">
 			<div class="col-md-7">
 				<h2>Extended Abstract Template</h2>
-				<p><strong>Please follow the IEEE Standard template for you extended abstract submission.</strong> <a class="btn btn-xs btn-info" href="exabstract_template.doc">Click here</a> <strong>to download the template.</strong></p>
+				<p><strong>Please refer to the following template for your extended abstract submission.</strong> <a class="btn btn-xs btn-info" href="exabstract_template.doc">Click here</a> <strong>to download the template.</strong></p>
 			</div>
 			<div class="col-md-5"><img class="img-responsive img-thumbnail" src="img/paper_temp.jpg"></div>
 		</div>
