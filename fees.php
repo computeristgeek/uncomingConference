@@ -106,6 +106,14 @@
                     <li><h3>Online access to the general proceedings</h3></li>
                 </ul>
             </div>
+            <div class="col-md-3">
+		<h2>Bank Account</h2>
+		<p>Beneficiary: Pharos University in Alexandria, Egypt</p>
+		<p>Bank Name: CIB (Commercial International Bank)</p>
+		<p>Account Name:  Pharos University in Alexandria, Egypt</p>
+		<p>Account no. 100023353727</p>
+		<p>Swift Code: CIBEEGCXXXX</p>
+	    </div>
         </div>
 
     </div>
