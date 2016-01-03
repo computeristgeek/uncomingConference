@@ -132,8 +132,8 @@
 			      		<li>Wind Energy Technology and Applications</li>
 			      		<li>Intelligent Control for Renewable Energy</li>
 			      		<li>Hydrogen fuel</li>
-			      		<li>Fuel Cells Technology and Applicationsli</li>
-			      		<li>Smart Grids, Micro Grids, and others</li>
+			      		<li>Fuel Cells Technology and Applications</li>
+			      		<li>Smart Grids and Micro Grids</li>
                 </b>
 			      	</ul>
 			      </div>
@@ -143,7 +143,7 @@
 			    <div class="panel-heading" role="tab" id="headingThree">
 			      <h4 class="panel-title">
 			        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-			          <b>Energy Management</b>
+			          <b>Energy and Sustainable Development</b>
 			        </a>
 			      </h4>
 			    </div>
@@ -167,7 +167,7 @@
 			    <div class="panel-heading" role="tab" id="headingFour">
 			      <h4 class="panel-title">
 			        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-			         <b>Energy & Sustainable Development</b>
+			         <b>Energy Management</b>
 			        </a>
 			      </h4>
 			    </div>
@@ -176,12 +176,12 @@
 			      	<ul>
                 <b>
 			      		<li>Energy Audit and On-site Measurement</li>
-			      		<li>Energy Management & Policies</li>
-			      		<li>Energy Supply & Climate Change</li>
-			      		<li>Energy Analysis & Energy Efficiency</li>
+			      		<li>Energy Management and Policies</li>
+			      		<li>Energy Supply and Climate Change</li>
+			      		<li>Energy Analysis and Energy Efficiency</li>
 			      		<li>Energy Sustainability in developing countries</li>
-			      		<li>National Energy Strategy and Decision making</li>
-			      		<li>Regional Issues, Economics & Policies</li>
+			      		<li>National Energy Strategy and Decision Making</li>
+			      		<li>Regional Issues, Economics and Policies</li>
               </b>
 			      	</ul>
 			      </div>
