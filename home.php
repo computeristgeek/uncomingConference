@@ -108,7 +108,6 @@
 			      		<li>Power System Quality</li>
 			      		<li>Nuclear Power</li>
 			      		<li>Clean Coal Technologies in Power Generation</li>
-			      		<li>Energy Economics</li>
                 </b>
 			      	</ul>
 			      </div>
