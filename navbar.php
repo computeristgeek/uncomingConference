@@ -44,6 +44,8 @@
             <li><a href="aboutalex.php">About Alexandria</a></li>
           </ul>
         </li>
+        <li><a href="sponsors.php">Sponsors</a></li>
+        <li><a href="underconstruction.php">Exhibitors</a></li>
      	<li><a href="" data-toggle="modal" data-target="#contact-us">Contact us</a></li>
         
       </ul>
