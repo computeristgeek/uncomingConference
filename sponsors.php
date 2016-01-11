@@ -7,13 +7,18 @@
 			<h1>Sponsors</h1>
 		</div>
 	</div>
-	<h4>The conference sponsorship scheme will certainly be an effective mean to deliver the right corporate image for your company.  The conference organizing committee presents you with the following sponsorship packages:</h4>
+	<div class="row">
+		<div class="col-md-12">
+			<h4>The conference sponsorship scheme will certainly be an effective mean to deliver the right corporate image for your company.  The conference organizing committee presents you with the following sponsorship packages:</h4>
+		</div>
+	</div>
+	
 	<div class="row">
 		<div class="col-md-12">
 			  <h2 class="featurette-heading">Package Options</h2>
-			  <table class="table">
+			  <table class="table" id="sponsers_table">
 				<tbody><tr><th>Package Options</th><th>Main Items Included</th><th>Advertisement in the Program Pamphlet</th><th>Amount in EGP (unit price)</th></tr>
-				<tr>
+				<tr class="success">
 					<td>Diamond Sponsor</td>
 					<td>
 						<ul>
@@ -27,7 +32,7 @@
 					<td>Additional 4 full inside page colour advertisements</td>
 					<td>30,000</td>
 				</tr>
-				<tr>
+				<tr class="warning">
 					<td>Gold Sponsor</td>
 					<td>
 						<ul>
@@ -40,7 +45,7 @@
 					<td>Additional 3 full inside page colour advertisements</td>
 					<td>22,000</td>
 				</tr>
-				<tr>
+				<tr class="active">
 					<td>Silver Sponsor</td>
 					<td>
 						<ul>
@@ -52,7 +57,7 @@
 					<td>Additional 2 full inside page colour advertisements</td>
 					<td>17,000</td>
 				</tr>
-				<tr>
+				<tr class="danger">
 					<td>Bronze Sponsor</td>
 					<td>
 						<ul>
@@ -66,13 +71,19 @@
 				</tbody></table>
 		</div>
 	</div>
-	<h4>Other Additional Benefits:
+	<h5><b>Other Additional Benefits:
 	<br /><br />
 		<ol>
 		<li>Acknowledgement will be made to all sponsors in the program pamphlets.</li>
 		<li>Sponsors are given the opportunity to present their product and services at a formal conference industry session on day 1 of the conference program.  A 30-minute time slot can be arranged on a first-come-first-served basis.   Total 12 sessions available.  Academic delegates and industry professionals will sit in the presentation.</li>
 		<li>All sponsors are welcome to supply us with any promotional materials or premiums that they wish to be attached with the Conference Proceedings package. This is at no additional charges but items much reach us no later than 15 May, 2016.</li>
 		</ol>
-		<br />Please consider sponsoring our event. If you like to do so or would like to make further inquiries please contact us.  All cheques should be made payable to “Pharos University in Alexandria”  At back of cheque, please mark clearly your &lt;company name&gt; and &lt;the sponsorship package number&gt;.  Please mail to Conference Secretariat.</h4>
+		<br />Please consider sponsoring our event. If you like to do so or would like to make further inquiries please contact us.  All cheques should be made payable to “Pharos University in Alexandria”  At back of cheque, please mark clearly your &lt;company name&gt; and &lt;the sponsorship package number&gt;.  Please mail to Conference Secretariat.</b></h5><hr>
+		<div class="row">
+    		<div class="col-md-8">
+				<h4><i class="fa fa-phone-square fa-lg"></i> Sponsers<br>Please contact Dr. Yasser El Kamshoshe (01223115392)</h4>
+			</div>
+		</div>
     </div>
+    
 <?php include 'footer.php' ?>
