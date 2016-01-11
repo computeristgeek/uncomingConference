@@ -122,6 +122,18 @@
 		    <td>(KTH)</td>
 		</tr>
 		<tr>
+		    <td>Prof. Yohannes Kiros</td>
+		    <td>(KTH)</td>
+		</tr>
+		<tr>
+		    <td>Prof. Johan Karlander</td>
+		    <td>(KTH)</td>
+		</tr>
+		<tr>
+		    <td>Prof. Alexis Pontvik</td>
+		    <td>(KTH)</td>
+		</tr>
+		<tr>
 		    <td colspan="2">* Chairs<br />PUA = Pharos University in ALexandria<br />AU = Alexandria University<br />MU = Menoufia University<br />KTH = Royal Sweden Institute of Technology</td>
 		</tr>
 		<tr>
