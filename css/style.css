@@ -242,6 +242,10 @@ body
 {
 	vertical-align:middle;
 }
+#sponsers_table td
+{
+	font-size: medium;
+}
 @media (max-width: 767px) { /* screen-xs-max BS4: min-width:34em*/
 	#new-trends
 	{
@@ -371,6 +375,7 @@ body
     font-size: 160px;
   }
 }
+
 
 @media all and (min-width: 200px)
 {
