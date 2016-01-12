@@ -16,7 +16,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			  <h2 class="featurette-heading">Package Options</h2>
-			  <table class="table" id="sponsers_table">
+			  <table class="table" id="sponsors_table">
 				<tbody><tr><th>Package Options</th><th>Main Items Included</th><th>Advertisement in the Program Pamphlet</th><th>Amount in EGP (unit price)</th></tr>
 				<tr class="success">
 					<td>Diamond Sponsor</td>
