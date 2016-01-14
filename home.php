@@ -102,7 +102,7 @@
 			      <div class="panel-body">
 			      	<ul>
                 <b>
-			      		<li>Innovation in Energy Technology</li>
+			      		<li>Innovations in Energy Technology</li>
 			      		<li>Power Systems and Automation</li>
 			      		<li>Centralized and Decentralized Energy Systems</li>
 			      		<li>Power System Quality</li>
@@ -153,7 +153,6 @@
 			      		<li>Energy and Sustainable Development</li>
 			      		<li>Green Energy Technologies</li>
 			      		<li>Energy and Environment</li>
-			      		<li>Energy Economics</li>
 			      		<li>Clean Transportation Fuels</li>
 			      		<li>Energy challenges in the urbanization process</li>
 			      		<li>Building Efficiency Technologies</li>
@@ -181,6 +180,7 @@
 			      		<li>Energy Sustainability in developing countries</li>
 			      		<li>National Energy Strategy and Decision Making</li>
 			      		<li>Regional Issues, Economics and Policies</li>
+                <li>Energy Economics</li>
               </b>
 			      	</ul>
 			      </div>
