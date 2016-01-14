@@ -145,8 +145,8 @@
 				<li>Researching, selecting and recommending the Keynote speakers and session chairmen</li>
 				<li>Researching and selecting the independent referees who are knowledgeable in the pertinent subject areas of the conference program. </li>
 				<li>Review abstracts of the received papers and select those research ideas that are consistent with the conference program topics in the Call of papers.</li>
-				<li>Sending the full-papers of the accepted abstracts to the referees for revision, selection and approval. </li>
-				<li>Work with the Publication committee on the Preparation of full papers for publication</li>
+				<li>Sending the extended abstracts of the accepted abstracts to the referees for revision, selection and approval. </li>
+				<li>Work with the Publication committee on the Preparation of extended abstracts for publication</li>
 				</ol></div>
 				</td>
 		</tr>
@@ -423,7 +423,7 @@
 				<li>Determination of the scientific topics and range of information of the conference in cooperation with the Scientific committee</li>
 				<li>Prepare letters of invitation to potential participants and registration forms. </li>
 				<li>Determination of the “Review Process Rules” </li>
-				<li>Preparing the “Abstract Format” and the “Full Paper Format”.</li>
+				<li>Preparing the “Abstract Format” and the “Extended Abstract Format”.</li>
 				<li>Preparing the Conference Copyright Forms for the papers accepted for publications and the proceedings format.</li>
 				<li>Select research topics that are consistent with the conference program topicsand form consistent sessions.</li>
 				<li>Determination and formulation of the necessary professional ethics rules that referees or anyone with access to conference submissions treat the contents of papers under review as privileged information not to be disclosed to others before publications.    </li>
