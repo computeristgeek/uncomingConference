@@ -34,7 +34,7 @@
 	    <div class="row">
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
-		      <img src="img/avatar.png" alt="...">
+		      <img src="img/avatar.png" alt="Speaker Avatar">
 		      <div class="caption">
 		        <h3><center>Speaker one</center></h3>
 		        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -44,7 +44,7 @@
 
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
-		      <img src="img/avatar.png" alt="...">
+		      <img src="img/avatar.png" alt="Speaker Avatar">
 		      <div class="caption">
 		        <h3><center>Speaker Two</center></h3>
 		        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -54,7 +54,7 @@
 
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
-		      <img src="img/avatar.png" alt="...">
+		      <img src="img/avatar.png" alt="Speaker Avatar">
 		      <div class="caption">
 		        <h3><center>Speaker Three</center></h3>
 		        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -66,7 +66,7 @@
 		<div class="row">
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
-		      <img src="img/avatar.png" alt="...">
+		      <img src="img/avatar.png" alt="Speaker Avatar">
 		      <div class="caption">
 		        <h3><center>Speaker Four</center></h3>
 		        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -76,7 +76,7 @@
 
 		<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
-		      <img src="img/avatar.png" alt="...">
+		      <img src="img/avatar.png" alt="Speaker Avatar">
 		      <div class="caption">
 		        <h3><center>Speaker Five</center></h3>
 		        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -86,7 +86,7 @@
 
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
-		      <img src="img/avatar.png" alt="...">
+		      <img src="img/avatar.png" alt="Speaker Avatar">
 		      <div class="caption">
 		        <h3><center>Speaker Six</center></h3>
 		        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>

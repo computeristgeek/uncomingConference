@@ -38,10 +38,10 @@
 			<div class="col-md-7">
 				<h3>Alexandria is the largest city on the Mediterranean Coast and the second largest city in Egypt, extending about 32 km (20 mi) along the coast. Founded 331 BC by Alexander the Great, it remained the capital of Hellenistic and Roman and Byzantine Egypt for almost 1000 years. Hellenistic Alexandria was best known for the Lighthouse of Alexandria (Pharos), one of the Seven Wonders of the Ancient World</h3>
 			</div>
-			<div class="col-md-5"><img class="img-responsive img-thumbnail" src="img/alex2.jpg"></div>
+			<div class="col-md-5"><img class="img-responsive img-thumbnail" src="img/alex2.jpg" alt="Qait Bay Citadel" ></div>
 		</div>
 		<div class="row">
-			<div class="col-md-5"><img src="img/alex3.jpg" class="img-responsive img-thumbnail"></div>
+			<div class="col-md-5"><img src="img/alex3.jpg" class="img-responsive img-thumbnail" alt="Alexandria's Beach" ></div>
 			<div class="col-md-7">
 				<h3>
 					Alexandria was founded around a small Ancient Egyptian town c. 331 BC by Alexander the Great. It became an important center of the Hellenistic civilization and remained the capital of Hellenistic and Roman and Byzantine Egypt for almost 1000 years until the Muslim conquest of Egypt in AD 641, when a new capital was founded at Fustat (later absorbed into Cairo). Hellenistic Alexandria was best known for the Lighthouse of Alexandria (Pharos), one of the Seven Wonders of the Ancient World; its Great Library (the largest in the ancient world; now replaced by a modern one); and the Necropolis, one of the Seven Wonders of the Middle Ages. Alexandria was the second most powerful city of the ancient world after Rome. Ongoing maritime archaeology in the harbor of Alexandria, which began in 1994, is revealing details of Alexandria both before the arrival of Alexander, when a city named Rhacotis existed there, and during the Ptolemaic dynasty.
@@ -57,7 +57,7 @@
 				The Bibliotheca Alexandrina was inaugurated in 2003, near the site of the old Library.
 				</h3>
 			</div>
-			<div class="col-md-5"><img src="img/AlexandriaLibrary.jpg" class="img-responsive img-thumbnail"></div>
+			<div class="col-md-5"><img src="img/AlexandriaLibrary.jpg" class="img-responsive img-thumbnail" alt="Bibliotheca Alexandrina" ></div>
 		</div>
 	</div>
 

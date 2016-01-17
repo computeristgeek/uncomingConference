@@ -60,19 +60,19 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="img/alex.jpg">
+      <img src="img/alex.jpg" alt="El Raml Station">
       <div class="carousel-caption">
         El Raml Station
       </div>
     </div>
     <div class="item">
-      <img src="img/AlexandriaLibrary2.jpg">
+      <img src="img/AlexandriaLibrary2.jpg" alt="Bibliotheca Alexandrina">
       <div class="carousel-caption">
         Bibliotheca Alexandria 
       </div>
     </div>
     <div class="item">
-      <img src="img/stanley.jpg">
+      <img src="img/stanley.jpg" alt="Stanley Bridge">
       <div class="carousel-caption">
         Stanley Bridge   
       </div>
@@ -286,7 +286,7 @@
         </ul>
       </h4>
     </div>
-    <div class="col-md-4"><img src="img/hilton.jpg" class="img-responsive img-thumbnail"></div>
+    <div class="col-md-4"><img src="img/hilton.jpg" class="img-responsive img-thumbnail" alt="Hilton Plaza"></div>
   </div>
 <hr>
 
@@ -298,17 +298,17 @@
       <!-- Three columns of text below circle pictures -->
       <div class="row">
         <div class="col-md-4">
-          <img class="img-circle center-block" src="img/logo.png" width="140" height="140">
+          <img class="img-circle center-block" src="img/logo.png" width="140" height="140" alt="Sponsor Logo">
           <h3 align="center">Sponsor 1</h3>
           
         </div><!-- /.col-md-4 -->
         <div class="col-md-4">
-          <img class="img-circle center-block" src="img/logo.png" width="140" height="140">
+          <img class="img-circle center-block" src="img/logo.png" width="140" height="140" alt="Sponsor Logo">
           <h3 align="center">Sponsor 2</h3>
           
         </div><!-- /.col-md-4 -->
         <div class="col-md-4">
-          <img class="img-circle center-block" src="img/logo.png" width="140" height="140">
+          <img class="img-circle center-block" src="img/logo.png" width="140" height="140" alt="Sponsor Logo">
           <h3 align="center">Sponsor 3</h3>
          
         </div><!-- /.col-md-4 -->

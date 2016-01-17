@@ -12,6 +12,6 @@
 		  <h1>Under Construction</h1>
 		</div>
 	    </div>
-	    <img class="center-block" src="img/under-construction-150271_1280.png" />
+	    <img class="center-block" src="img/under-construction-150271_1280.png" alt="Under Construction" />
     </div>
 <?php include 'footer.php' ?>

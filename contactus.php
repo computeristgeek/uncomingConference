@@ -32,7 +32,7 @@
 	    </div>
 	    <div class="row">
 	    	<div class="col-md-3">
-	    		<img src="img/contactus.png">
+	    		<img src="img/contactus.png" alt="Contact Us">
 	    	</div>
 	    	<div class="col-md-8">
 	    		<h4>Conference Email: ICNTSE@pua.edu.eg</h4>
