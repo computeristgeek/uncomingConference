@@ -1,3 +1,8 @@
+<?php
+	$title='Committees - ICNTSE';
+	$keywords='icntse,pua,kth,international conference,new trends,sustainable energy,science,extended abstract,committees';
+	$description='This page provides the ICNTSE Conference Committees.';
+?>
 <?php include 'header.php' ?>
   <body style="padding-top:50px;" id="committeesbody">
 <div class="container">

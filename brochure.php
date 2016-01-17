@@ -1,3 +1,8 @@
+<?php
+	$title='Brochure - ICNTSE';
+	$keywords='icntse,pua,kth,international conference,new trends,sustainable energy,science,extended abstract,brochure';
+	$description='This page provides the ICNTSE Conference Brochure.';
+?>
 <?php include 'header.php' ?>
   <body style="padding-top: 50px;">
 <?php include('navbar.php'); ?>

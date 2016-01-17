@@ -1,3 +1,8 @@
+<?php
+	$title='Fees - ICNTSE';
+	$keywords='icntse,pua,kth,international conference,new trends,sustainable energy,science,extended abstract,fees';
+	$description='This page displays the ICNTSE Conference Fees.';
+?>
 <?php include 'header.php' ?>
 <link rel="stylesheet" type="text/css" href="css/fees.css">
   <body style="padding-top: 50px;">

@@ -1,6 +1,16 @@
+<?php
+	$keywords='icntse,pua,kth,international conference,new trends,sustainable energy,science,extended abstract,poster,guidelines';
+	$description='This page provides the guidelines for posters and extended abstracts for the ICNTSE Conference.';
+?>
 <html>
 <head>
-	<title>Poster Guidelines</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	<meta name="description" content="<?php echo $description ?>">
+	<meta name="keywords" content="<?php echo $keywords ?>">
+	<title>Poster & Ext-Abstract Guidelines - ICNTSE</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/carousel.css">

@@ -1,3 +1,8 @@
+<?php
+	$title='Conference Topics - ICNTSE';
+	$keywords='icntse,pua,kth,international conference,new trends,sustainable energy,science,extended abstract';
+	$description='This page provides a list of ICNTSE Conference Topics.';
+?>
 <?php include 'header.php' ?>
   <body>
 <?php include('navbar.php'); ?>

@@ -1,3 +1,8 @@
+<?php
+	$title='Call For Papers - ICNTSE';
+	$keywords='icntse,pua,kth,international conference,new trends,sustainable energy,science,extended abstract,call for papers';
+	$description='This page is provided as a CFP or the ICNTSE Conference.';
+?>
 <?php include 'header.php' ?>
   <body>
 <?php include('navbar.php'); ?>

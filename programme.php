@@ -1,3 +1,8 @@
+<?php
+	$title='Programme - ICNTSE';
+	$keywords='icntse,pua,kth,international conference,new trends,sustainable energy,science,extended abstract,programme';
+	$description='This page provides the ICNTSE Conference Programme.';
+?>
 <?php include 'header.php' ?>
   <body style="padding-top:50px;" >
 <?php include('navbar.php'); ?>

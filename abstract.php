@@ -1,3 +1,8 @@
+<?php
+	$title='Abstract Submission - ICNTSE';
+	$keywords='icntse,pua,kth,international conference,new trends,sustainable energy,science,extended abstract,abstract submission';
+	$description='This page provides the ICNTSE Conference Abstract Submission Form.';
+?>
 <?php include 'header.php' ?>
   <body style="padding-top: 50px;">
 <?php include('navbar.php'); ?>

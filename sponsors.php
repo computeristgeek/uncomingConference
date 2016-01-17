@@ -1,3 +1,8 @@
+<?php
+	$title='Sponsors - ICNTSE';
+	$keywords='icntse,pua,kth,international conference,new trends,sustainable energy,science,extended abstract,for sponsors';
+	$description='This page is provided as a guidelines or ICNTSE Conference Sponsors.';
+?>
 <?php include 'header.php' ?>
   <body style="padding-top:50px;" >
 <?php include('navbar.php'); ?>

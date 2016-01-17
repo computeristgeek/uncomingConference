@@ -1,3 +1,8 @@
+<?php
+	$title='Registration - ICNTSE';
+	$keywords='icntse,pua,kth,international conference,new trends,sustainable energy,science,extended abstract,registration';
+	$description='This page is provided for ICNTSE Conference Registration.';
+?>
 <?php include 'header.php' ?>
   <body style="padding-top: 50px;">
 <?php include('navbar.php'); ?>
