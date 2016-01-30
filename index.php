@@ -1,7 +1,7 @@
 <?php
 	$title='International Conference on New Trends for Sustainable Energy';
 	$keywords='icntse,pua,kth,international conference,new trends,sustainable energy,science,extended abstract,call for papers';
-	$description='The official website for the ICNTSE Conference, OCT 1-3, with the cooperation of PUA, Egypt and KTH, Sweden';
+	$description='The official website for the International Conference on New Trends for Sustainable Energy (ICNTSE) Conference, OCT 1-3, with the cooperation of PUA, Egypt and KTH, Sweden';
 ?>
 <?php include 'header.php' ?>
   <body style="padding-top: 50px;">
