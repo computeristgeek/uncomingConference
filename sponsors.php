@@ -86,7 +86,7 @@
 		<br />Please consider sponsoring our event. If you like to do so or would like to make further inquiries please contact us.  All cheques should be made payable to “Pharos University in Alexandria”  At back of cheque, please mark clearly your &lt;company name&gt; and &lt;the sponsorship package number&gt;.  Please mail to Conference Secretariat.</b></h5><hr>
 		<div class="row">
     		<div class="col-md-8">
-				<h4><i class="fa fa-phone-square fa-lg"></i> Sponsors<br>Please contact Dr. Yasser El Kamshoshe (01223115392)</h4>
+				<h4><i class="fa fa-phone-square fa-lg"></i> Sponsors<br>Please contact Dr. Yasser El Kamshoshe (+20 1223115392)</h4>
 			</div>
 		</div>
     </div>
