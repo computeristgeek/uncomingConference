@@ -9,7 +9,7 @@
       <div class="modal-body">
         <div class="row">
           <div class="col-md-8">
-            <h4>Conference Email: ICNTSE@pua.edu.eg</h4>
+            <h4>Conference Email: <img src="img/ICNTSEE.jpg" /></h4>
             <h4>Conference Website: <a href="http://www.icntse.com">http://www.icntse.com</a></h4>
             <h4>Telephone: +203-3877-(553|453)</h4>
             <h4>Sponsors: Please contact Dr. Yasser El Kamshoshe (+20 1223115392)</h4>
