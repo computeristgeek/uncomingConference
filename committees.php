@@ -55,10 +55,6 @@
 		    <td>(PUA)</td>
 		</tr>
 		<tr>
-		    <td>Prof. Saied Darwish</td>
-		    <td>(PUA)</td>
-		</tr>
-		<tr>
 		    <td>Prof. Alaa Shebl</td>
 		    <td>(PUA)</td>
 		</tr>
@@ -256,7 +252,7 @@
 	    <tbody>
 		<tr>
 		    <td>Head</td>
-		    <td>Prof.Saied Darwish</td>
+		    <td>Prof.Kadry Montasser</td>
 		</tr>
 		<tr>
 		    <td rowspan="3">Finance Committee</td>
@@ -373,7 +369,7 @@
 		</tr>
 		<tr>
 		    <td rowspan="4">Public Relations</td>
-		    <td>Ass.Prof.Ehssan Nasef</td>
+		    <td>Dr.Ehssan Nasef</td>
 		</tr>
 		<tr>
 		    <td>Dr.Ahmed AbdelMutal</td>
@@ -416,10 +412,10 @@
 		</tr>
 		<tr>
 		    <td rowspan="2">Publication Committee</td>
-		    <td>Ass.Prof.Noha Shaaban</td>
+		    <td>Dr.Noha Shaaban</td>
 		</tr>
 		<tr>
-		    <td>Ass.Prof.Ehssan Nasef</td>
+		    <td>Dr.Ehssan Nasef</td>
 		</tr>
 		<tr>
 		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role06')">
