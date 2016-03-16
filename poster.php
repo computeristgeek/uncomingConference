@@ -1,6 +1,6 @@
 <?php
 	$keywords='icntse,pua,kth,international conference,new trends,sustainable energy,science,extended abstract,poster,guidelines';
-	$description='This page provides the guidelines for posters and extended abstracts for the ICNTSE Conference.';
+	$description='This page provides the guidelines for posters, extended abstracts and full-papers for the ICNTSE Conference.';
 ?>
 <html>
 <head>
@@ -10,7 +10,7 @@
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 	<meta name="description" content="<?php echo $description ?>">
 	<meta name="keywords" content="<?php echo $keywords ?>">
-	<title>Poster & Ext-Abstract Guidelines - ICNTSE</title>
+	<title>Poster, Ext-Abstract & Full-Paper Guidelines - ICNTSE</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/carousel.css">
@@ -27,7 +27,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="page-header">
-				<h1>Poster and Extended Abstract Guidelines</h1>
+				<h1>Poster, Extended Abstract and Full-Paper Guidelines</h1>
 			</div>
 		</div>
 
@@ -77,7 +77,7 @@
 -				<h2>Full-Paper Template</h2>
 -				<p><strong>Please follow the IEEE Standard template for you paper submission.</strong> <a class="btn btn-xs btn-info" href="paper_template.doc">Click here</a> <strong>to download the template.</strong></p>
 			</div>
-			<div class="col-md-5"><img class="img-responsive img-thumbnail" src="img/paper_temp.jpg" alt="Full-Paper Sample" ></div>
+			<div class="col-md-5"><img class="img-responsive img-thumbnail" src="img/fullpaper_temp.jpg" alt="Full-Paper Sample" ></div>
 		</div>
 	</div>
 <script type="text/javascript" src="js/bootstrap.js"></script>

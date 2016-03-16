@@ -261,7 +261,7 @@
       <h4>
         *Acceptance is issued once a positive feedback is received from the reviewing committee<br>
         **Late payment fees are mandatory after this date<br>
-        ***Will not be issued without completing the fees, and approval of the Extended Abstract
+        ***Will not be issued without completing the fees, and approval of the Full-Paper / Extended Abstract
       </h4>
         </div>
         <div class="col-md-2">
