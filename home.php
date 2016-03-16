@@ -250,11 +250,11 @@
           <h2 class="featurette-heading">Important Dates</h2>
           <table class="table">
           	<tr><th>Date</th><th>Event</th></tr>
-          	<tr><td>April 15, 2016</td><td>Abstract Submission Deadline</td></tr>
-          	<tr><td>May 1, 2016</td><td>Last Notification for Abstract Acceptance*</td></tr>
+          	<tr><td>April 15, 2016<img src="img/AnimatedStar_small.gif" alt="Animated Star" /></td><td>Abstract Submission Deadline</td></tr>
+          	<tr><td>May 1, 2016<img src="img/AnimatedStar_small.gif" alt="Animated Star" /></td><td>Last Notification for Abstract Acceptance*</td></tr>
           	<tr><td>May 15, 2016</td><td>Extended Abstract Submission Deadline</td></tr>
-          	<tr><td>July 1, 2016</td><td>Last Notification for Extended Abstract Acceptance**</td></tr>
-          	<tr><td>August 1, 2016</td><td>Payment Deadline</td></tr>
+          	<tr><td>July 1, 2016<img src="img/AnimatedStar_small.gif" alt="Animated Star" /></td><td>Last Notification for Full-Paper / Extended Abstract Acceptance**</td></tr>
+          	<tr><td>August 1, 2016<img src="img/AnimatedStar_small.gif" alt="Animated Star" /></td><td>Payment Deadline</td></tr>
           	<tr><td>September 15, 2016</td><td>Conference Program</td></tr>
           	<tr><td>October 1, 2016</td><td>Conference Launch</td></tr>
 		  </table>
