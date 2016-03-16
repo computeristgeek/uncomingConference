@@ -67,6 +67,18 @@
 			</div>
 			<div class="col-md-5"><img class="img-responsive img-thumbnail" src="img/paper_temp.jpg" alt="Extended Abstract Sample" ></div>
 		</div>
+		<div class="row" id="paperGuidelines">
+			<div class="page-header">
+				  <h1>Full-Paper Guidelines</h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-7">
+-				<h2>Full-Paper Template</h2>
+-				<p><strong>Please follow the IEEE Standard template for you paper submission.</strong> <a class="btn btn-xs btn-info" href="paper_template.doc">Click here</a> <strong>to download the template.</strong></p>
+			</div>
+			<div class="col-md-5"><img class="img-responsive img-thumbnail" src="img/paper_temp.jpg" alt="Full-Paper Sample" ></div>
+		</div>
 	</div>
 <script type="text/javascript" src="js/bootstrap.js"></script>
 </body>
