@@ -59,7 +59,7 @@
                  <div class="db-wrapper">
                 <div class="db-pricing-eleven db-bk-color-two popular">
                     <div class="price">
-                        <sup>$</sup>500
+                        <sup>$</sup>300
                                 <small>Standard Booking</small>
                     </div>
                     <div class="type">
@@ -67,7 +67,7 @@
                     </div>
                     <ul>
 
-                        <li>In case of early booking : $ 450 *</li>
+                        <li>In case of early booking : $ 250 *</li>
                     </ul>
                     <div class="pricing-footer">
 
