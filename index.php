@@ -7,7 +7,12 @@
   <body style="padding-top: 50px;">
 <?php include('navbar.php');?>
     <div class="container">
+
         <div class="row">
+        	<div class="alert alert-warning alert-dismissible" role="alert" style="margin-top:5px;">
+				  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				  <strong>Notification!</strong> Important dates updated, <a href="home.php#callPapers" class="alert-link">Click here</a> to view the update.
+			</div>
             <div class="col-xs-12" id="main"> 
                 <h1 class="visible-md visible-lg" id="title"><span id="first-conf">1<sup>st</sup> INTERNATIONAL CONFERENCE ON</span><br \><span class="white shaded" id="new-trends">NEW TRENDS FOR SUSTAINABLE ENERGY</span></h1>
                 <h2 class="visible-xs visible-sm" id="title"><span id="first-conf">1<sup>st</sup> INTERNATIONAL CONFERENCE ON</span><br \><span class="white shaded" id="new-trends">NEW TRENDS FOR SUSTAINABLE ENERGY</span></h1>
