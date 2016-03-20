@@ -252,8 +252,8 @@
           	<tr><th>Date</th><th>Event</th></tr>
           	<tr><td>April 15, 2016<img src="img/AnimatedStar_small.gif" alt="Animated Star" /></td><td>Abstract Submission Deadline</td></tr>
           	<tr><td>May 1, 2016<img src="img/AnimatedStar_small.gif" alt="Animated Star" /></td><td>Last Notification for Abstract Acceptance*</td></tr>
-          	<tr><td>May 15, 2016</td><td>Full-Paper / Extended Abstract Submission Deadline</td></tr>
-          	<tr><td>July 1, 2016<img src="img/AnimatedStar_small.gif" alt="Animated Star" /></td><td>Last Notification for Full-Paper / Extended Abstract Acceptance**</td></tr>
+          	<tr><td>May 15, 2016</td><td>Poster / Full-Paper / Extended Abstract Submission Deadline</td></tr>
+          	<tr><td>July 1, 2016<img src="img/AnimatedStar_small.gif" alt="Animated Star" /></td><td>Last Notification for Poster / Full-Paper / Extended Abstract Acceptance**</td></tr>
           	<tr><td>August 1, 2016<img src="img/AnimatedStar_small.gif" alt="Animated Star" /></td><td>Payment Deadline</td></tr>
           	<tr><td>September 15, 2016</td><td>Conference Program</td></tr>
           	<tr><td>October 1, 2016</td><td>Conference Launch</td></tr>
@@ -261,7 +261,9 @@
       <h4>
         *Acceptance is issued once a positive feedback is received from the reviewing committee<br>
         **Late payment fees are mandatory after this date<br>
-        ***Will not be issued without completing the fees, and approval of the Full-Paper / Extended Abstract
+        ***Will not be issued without completing the fees, and approval of the Poster / Full-Paper / Extended Abstract<br />
+	ATTENTION: Payments are done through the Bank Account, kindly mention the conference name and your email in the comments section.<br />
+	NOTE: Posters / Full-Paper / Extended Abstract are to be sent through email.
       </h4>
         </div>
         <div class="col-md-2">

@@ -28,6 +28,9 @@
 		<div class="row">
 			<div class="page-header">
 				<h1>Poster, Extended Abstract and Full-Paper Guidelines</h1>
+				<h3>The three types of submissions 1) Poster Submission, 2) Extended Abstract Submissions, 3) Full-Paper Submissions are accepted and published in the conference proceedings.</h3>
+				<h3>ATTENTION: Payments are done through the Bank Account, kindly mention the conference name and your email in the comments section.</h3>
+				<h3>NOTE: Posters / Full-Paper / Extended Abstract are to be sent through email.</h3>
 			</div>
 		</div>
 

@@ -103,6 +103,8 @@
                 <h3>Early booking delegates: <small>registered on or before 31 March, 2016*</small></h3>
                 <h3>Standard delegates: <small>booking after 15 August, 2016**</small></h3>
                 <h3>Student Authors: <small> will be required to provide proof being an academic student***</small></h3>
+		<h3>ATTENTION: Payments are done through the Bank Account, kindly mention the conference name and your email in the comments section.</h3>
+		<h3>NOTE: Posters / Full-Paper / Extended Abstract are to be sent through email.</h3>
                 <h2 class="purple">Registration fee includes</h2>
                 <ul>
                     <li><h3>Access to all conference and poster sessions</h3></li>
