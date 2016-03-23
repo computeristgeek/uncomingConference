@@ -77,8 +77,8 @@
 		</div>
 		<div class="row">
 			<div class="col-md-7">
--				<h2>Full-Paper Template</h2>
--				<p><strong>Please follow the IEEE Standard template for you paper submission.</strong> <a class="btn btn-xs btn-info" href="paper_template.doc">Click here</a> <strong>to download the template.</strong></p>
+				<h2>Full-Paper Template</h2>
+				<p><strong>Please follow the IEEE Standard template for you paper submission.</strong> <a class="btn btn-xs btn-info" href="paper_template.doc">Click here</a> <strong>to download the template.</strong></p>
 			</div>
 			<div class="col-md-5"><img class="img-responsive img-thumbnail" src="img/fullpaper_temp.jpg" alt="Full-Paper Sample" ></div>
 		</div>
