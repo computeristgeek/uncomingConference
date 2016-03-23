@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>ICNTSE FEED</title>
+  <link>http://www.icntse.com</link>
+  <description>International Conference on New Trends in Sustainable Energy - PUA - KTH</description>
+  <item>
+	  <title>ICNTSE is now under the auspices of The Ministry of Electricity and Renewable Energy - Egypt</title>
+    <link>http://www.icntse.com/</link>
+    <description>The Minister of Electricity and Renewable Energy, Dr. Mohamed Shaker El-Markabi, has accepted the invitation to attend the conference's opening ceremony and that the conference would be under the auspices of The Ministry of Electricity and Renewable Energy - Egypt.</description>
+  </item>
+  <item>
+    <title>Updates to Fees</title>
+    <link>http://www.icntse.com/fees.php</link>
+    <description>Fees Updated</description>
+  </item>
+  <item>
+    <title>Updates to Important Deadlines</title>
+    <link>http://www.icntse.com/home.php#callForPapers</link>
+    <description>Important Deadlines Updated</description>
+  </item>
+</channel>
+
+</rss>
