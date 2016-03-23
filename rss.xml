@@ -6,8 +6,13 @@
   <link>http://www.icntse.com</link>
   <description>International Conference on New Trends in Sustainable Energy - PUA - KTH</description>
   <item>
+	  <title>مؤتمر ICNTSE الآن تحت رعاية وزارة الكهرباء و الطاقة المتجددة</title>
+    <link>http://www.icntse.com/rss.xml</link>
+    <description>وزير الكهرباء و الطاقة المتجددة السيد / أ.د.محمد شاكر المرقبي قبل دعوة حضور حفل الإفتتاح و أن المؤتمر سيكون تحت رعاية وزارة الكهرباء و الطاقة المتجددة, مصر</description>
+  </item>
+  <item>
 	  <title>ICNTSE is now under the auspices of The Ministry of Electricity and Renewable Energy - Egypt</title>
-    <link>http://www.icntse.com/</link>
+    <link>http://www.icntse.com/rss.xml</link>
     <description>The Minister of Electricity and Renewable Energy, Dr. Mohamed Shaker El-Markabi, has accepted the invitation to attend the conference's opening ceremony and that the conference would be under the auspices of The Ministry of Electricity and Renewable Energy - Egypt.</description>
   </item>
   <item>
@@ -17,7 +22,7 @@
   </item>
   <item>
     <title>Updates to Important Deadlines</title>
-    <link>http://www.icntse.com/home.php#callForPapers</link>
+    <link>http://www.icntse.com/home.php#callPapers</link>
     <description>Important Deadlines Updated</description>
   </item>
 </channel>
