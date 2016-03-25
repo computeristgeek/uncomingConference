@@ -52,7 +52,7 @@
 		</tr>
 		<tr>
 		    <td>Prof. Adel Abou El Ella *</td>
-		    <td>(PUA)</td>
+		    <td>(MU)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Alaa Shebl</td>
@@ -85,6 +85,38 @@
 		<tr>
 		    <td>Prof. Ahmed Hegazy</td>
 		    <td>(MU)</td>
+		</tr>
+		<tr>
+		    <td>Prof. Sabri Abdel-Latif</td>
+		    <td>(MU)</td>
+		</tr>
+		<tr>
+		    <td>Prof. Ragab AbdelAziz El-Sehiemy</td>
+		    <td>(KFS)</td>
+		</tr>
+		<tr>
+		    <td>Prof. Ahmed Refaat</td>
+		    <td>(TU)</td>
+		</tr>
+		<tr>
+		    <td>Prof. Mohamed Orabi</td>
+		    <td>(ASWU)</td>
+		</tr>
+		<tr>
+		    <td>Prof. Moataz AbdelAziz</td>
+		    <td>(ASU)</td>
+		</tr>
+		<tr>
+		    <td>Prof. Sobhi Seri</td>
+		    <td>(PSU)</td>
+		</tr>
+		<tr>
+		    <td>Prof. Nabil Abdelmoniem</td>
+		    <td>(CU)</td>
+		</tr>
+		<tr>
+		    <td>Prof. Omar Hanafy</td>
+		    <td>(HU)</td>
 		</tr>
 		<tr>
 		    <td>Prof. Mamoun Muhammed</td>
@@ -135,7 +167,7 @@
 		    <td>(KTH)</td>
 		</tr>
 		<tr>
-		    <td colspan="2">* Chairs<br />PUA = Pharos University in ALexandria<br />AU = Alexandria University<br />MU = Menoufia University<br />KTH = Royal Sweden Institute of Technology</td>
+		    <td colspan="2">* Chairs<br />PUA = Pharos University in ALexandria<br />AU = Alexandria University<br />MU = Menoufia University<br />KFS = Kafrelsheikh University<br />TU = Tanta University<br />ASWU = Aswan University<br />ASU = Ain Shams University<br />PSU = Port Said University<br />CU = Cairo University<br />HU = Helwan University<br />KTH = Royal Sweden Institute of Technology</td>
 		</tr>
 		<tr>
 		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role00')">
