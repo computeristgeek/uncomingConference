@@ -1,5 +1,5 @@
 		<div id="newsfeed">
-			<span id="newsfeed_icon" onclick="$('#newsfeed_panel').toggle()" class="glyphicon glyphicon-list-alt"></span>
+			<button id="newsfeed_icon" class="btn btn-default" onclick="$('#newsfeed_panel').toggle()" ><span class="glyphicon glyphicon-list-alt"></span></button>
         		<div id="newsfeed_panel" class="panel panel-default">
 						<div class="panel-heading"> <b id='rss-title'>ICNTSE News Feed</b></div>
 							<div class="panel-body">
