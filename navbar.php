@@ -11,7 +11,7 @@
       </button>
       <a class="navbar-brand" href="index.php">ICNTSE</a>
     </div>
-
+		<?php include('newsfeed.php'); ?>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="collapsed_nav">
       <ul class="nav navbar-nav">
