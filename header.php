@@ -29,6 +29,5 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/conf.js"></script>
-    <script src="js/jquery.bootstrap.newsbox.min.js" type="text/javascript"></script>
 	<?php include_once("analyticstracking.php") ?>
   </head>
