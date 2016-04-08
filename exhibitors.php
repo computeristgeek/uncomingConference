@@ -19,6 +19,7 @@
 	</div>
 	<div class="col-xs-12 col-md-6">
 		<h4>
+			<b>Exhibition Reservation, <a href="exhibitres.php">Click Here</a></b><br />
 			<b>Exhibitor Information </b><br />
 			700 EGPs per square metre <br />
 			minimum space 4 sqm <br />
