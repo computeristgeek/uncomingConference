@@ -29,7 +29,7 @@
 						<ul>
 						<li>Prominent logo at main hall</li>
 						<li>One sponsorship banner</li>
-						<li>One exhibition booth in PolyU venue during conference period</li>
+						<li>One exhibition booth in PUA venue during conference period</li>
 						<li>One free industrial presentation</li>
 						<li>4 free registrations</li>
 						</ul>
@@ -42,7 +42,7 @@
 					<td>
 						<ul>
 						<li>One sponsorship banner</li>
-						<li>One exhibition booth in PolyU venue during conference period</li>
+						<li>One exhibition booth in PUA venue during conference period</li>
 						<li>One free industrial presentation</li>
 						<li>2 free registrations</li>
 						</ul>
