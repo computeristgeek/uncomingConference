@@ -301,8 +301,8 @@
       <!-- Three columns of text below circle pictures -->
       <div class="row">
         <div class="col-md-4">
-          <img class="img-circle center-block" src="img/logo.png" width="140" height="140" alt="Sponsor Logo">
-          <h3 align="center">Sponsor 1</h3>
+          <img class="img-circle center-block" src="img/sponsor1.jpg" width="140" height="140" alt="Sponsor Logo">
+          <h3 align="center">Swedish Institute</h3>
           
         </div><!-- /.col-md-4 -->
         <div class="col-md-4">
