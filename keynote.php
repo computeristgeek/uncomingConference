@@ -57,7 +57,7 @@
 		    <div class="thumbnail">
 		      <img src="img/speaker/3.jpg" class="img-circle" alt="Speaker3">
 		      <div class="caption">
-		        <h3><center>Professor SemidaSilveira, KTH</center></h3>
+		        <h3><center>Professor Semida Silveira, KTH</center></h3>
 		        <p>(TBD) - Traffic solutions or waste recycling</p>
 		      </div>
 		    </div>
