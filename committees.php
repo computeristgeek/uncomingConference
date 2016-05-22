@@ -19,7 +19,6 @@
   <ul class="nav nav-tabs" role="tablist">
     <li role="presentation" class="active"><a href="#Sience_C" aria-controls="Sience_C" role="tab" data-toggle="tab"><b>Scientific</b></a></li>
     <li role="presentation"><a href="#Stu_C" aria-controls="Stu_C" role="tab" data-toggle="tab"><b>Student</b></a></li>
-    <li role="presentation"><a href="#Sec_C" aria-controls="Sec_C" role="tab" data-toggle="tab"><b>Secretary</b></a></li>
     <li role="presentation"><a href="#Org_C" aria-controls="Org_C" role="tab" data-toggle="tab"><b>Organizing</b></a></li>
     <li role="presentation"><a href="#PubRel_C" aria-controls="PubRel_C" role="tab" data-toggle="tab"><b>Publicity</b></a></li>
     <li role="presentation"><a href="#Pub_C" aria-controls="Pub_C" role="tab" data-toggle="tab"><b>Publication</b></a></li>
@@ -191,26 +190,14 @@
     	<table class="table table-hover" id="stuComm">
 	    <thead>
 		<tr>
+		    <th>Function</th>
 		    <th>Name</th>
-		    <th>Affiliation</th>
 		</tr>
 	    </thead>
 	    <tbody>
 		<tr>
-		    <td>Mr. TBD</td>
-		    <td>(PUA)</td>
-		</tr>
-		<tr>
-		    <td>Mr. TBD</td>
-		    <td>(PUA)</td>
-		</tr>
-		<tr>
-		    <td>Ms. TBD</td>
-		    <td>(PUA)</td>
-		</tr>
-		<tr>
-		    <td>Mr. TBD</td>
-		    <td>(PUA)</td>
+		    <td>Head</td>
+		    <td>Dr. Ahmed Abdallah</td>
 		</tr>
 		<tr>
 		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role09')">
@@ -228,50 +215,6 @@
 	    </tbody>
 	</table>
     </div>
-    <div role="tabpanel" class="tab-pane" id="Sec_C">
-    	<h1>Secretary Committee</h1>
-    	<table class="table table-hover" id="secComm">
-	    <thead>
-		<tr>
-		    <th>Function</th>
-		    <th>Name</th>
-		</tr>
-	    </thead>
-	    <tbody>
-		<tr>
-		    <td>Secretary General</td>
-		    <td>Prof.M.A.Fahim</td>
-		</tr>
-		<tr>
-		    <td rowspan="3">Assistants</td>
-		    <td>Dr.Mona Othman</td>
-		</tr>
-		<tr>
-		    <td>Dr.Mohamed Abdel Rahman</td>
-		</tr>
-		<tr>
-		    <td>Dr.Amr El Sadany (Website)</td>
-		</tr>
-		<tr>
-		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role01')">
-			Roles and Responsibilities:
-			<div style='display:none;' id='role01'><ol>
-			<li>Preparing the conference project plan.</li>
-			<li>Reviewing the list of Keynote Speakers, as recommended by the scientific committee</li>
-			<li>Structuring date and time for all conference sessions and activeties.</li>
-			<li>Making sure that each committee is on task and on time.</li>
-			<li>Reporting to the General Chair and co-chairs on all administrative and financial matters relating the conference.</li>
-			<li>Providing the Heads of the conference Committees with a schedule of activities with set deadlines.  </li>
-			<li>Planning for social activities in consultation of President of the Conference as recommended by Organizing Committee members.</li>
-			<li>Reviewing content, layout quality and quantity of all printed materials including the Advance Flyer, Program Brochure, Proceedings…etc.</li>
-			<li>Recommending the conference registration fees structure </li>
-			<li>Ensuring that procedures and guidelines are in place to provide adequate health and safety conditions for attendance and committee peoples.</li>
-			</ol></div>
-			</td>
-					</tr>
-	    </tbody>
-	</table>
-    </div>
     <div role="tabpanel" class="tab-pane" id="Org_C">
     	<h1>Organizing Committee</h1>
     	<table class="table table-hover" id="orgComm">
@@ -284,7 +227,7 @@
 	    <tbody>
 		<tr>
 		    <td>Head</td>
-		    <td>Prof.Kadry Montasser</td>
+		    <td>Prof.Ahmed Abd El Metaal</td>
 		</tr>
 		<tr>
 		    <td rowspan="3">Finance Committee</td>
@@ -315,6 +258,9 @@
 		</tr>
 		<tr>
 		    <td rowspan="4">Sponsorship & Exhibit</td>
+		    <td>Prof. Kadry Montaser</td>
+		</tr>
+		<tr>
 		    <td>Dr.Khalid Hemdan</td>
 		</tr>
 		<tr>
