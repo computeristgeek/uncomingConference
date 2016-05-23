@@ -1,27 +1,9 @@
 <?php
+	$title='Contact us - ICNTSE';
 	$keywords='icntse,pua,kth,international conference,new trends,sustainable energy,science,extended abstract,contactus';
 	$description='This is is the official ICNTSE Conference ContactUs Page.';
 ?>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-	<meta name="description" content="<?php echo $description ?>">
-	<meta name="keywords" content="<?php echo $keywords ?>">
-	<title>Contact us - ICNTSE</title>
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="css/carousel.css">
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" type="text/css" href="css/parallax.css">
-
-	
-	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-	
-</head>
+<?php include 'header.php' ?>
 <body style="padding-top:50px;">
 <?php include('navbar.php'); ?>
 	<div class="container">
@@ -43,6 +25,4 @@
 	    	</div>
 	    </div>
 	</div>
-	<script type="text/javascript" src="js/bootstrap.js"></script>
-</body>
-</html>
+<?php include 'footer.php' ?>

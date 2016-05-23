@@ -1,28 +1,9 @@
 <?php
+	$title='Poster, Ext-Abstract & Full-Paper Guidelines - ICNTSE';
 	$keywords='icntse,pua,kth,international conference,new trends,sustainable energy,science,extended abstract,poster,guidelines';
 	$description='This page provides the guidelines for posters, extended abstracts and full-papers for the ICNTSE Conference.';
 ?>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-	<meta name="description" content="<?php echo $description ?>">
-	<meta name="keywords" content="<?php echo $keywords ?>">
-	<title>Poster, Ext-Abstract & Full-Paper Guidelines - ICNTSE</title>
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="css/carousel.css">
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" type="text/css" href="css/parallax.css">
-	<link rel="stylesheet" type="text/css" href="css/navbar_blue.css">
-        <link rel="stylesheet" type="text/css" href="css/newsfeed.css">
-
-	
-	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-</head>
+<?php include 'header.php' ?>
 <body style="padding-top:50px;">
 	<?php include('navbar.php'); ?>
 	<div class="container">
@@ -90,6 +71,4 @@
 			<div class="col-md-5"><img class="img-responsive img-thumbnail" src="img/fullpaper_temp.jpg" alt="Full-Paper Sample" ></div>
 		</div>
 	</div>
-<script type="text/javascript" src="js/bootstrap.js"></script>
-</body>
-</html>
+<?php include 'footer.php' ?>

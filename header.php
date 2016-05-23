@@ -30,5 +30,11 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/conf.js"></script>
+<?php if ($carousel!=''): ?>
+	<link rel="stylesheet" type="text/css" href="css/carousel.css">
+<?php endif ?>
+<?php if ($parallax!=''): ?>
+	<link rel="stylesheet" type="text/css" href="css/parallax.css">
+<?php endif ?>
 	<?php include_once("analyticstracking.php") ?>
   </head>
