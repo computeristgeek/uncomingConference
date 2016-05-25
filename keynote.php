@@ -70,7 +70,7 @@
 
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
-		      <img src="img/avatar.png" class="img-circle" alt="Speaker6">
+		      <img src="img/speaker/avatar.jpg" class="img-circle" alt="Speaker6">
 		      <div class="caption">
 		        <h3><center>Professor Åsa Stenmark</center></h3>
 		        <p>Waste streams for chemical conversion technologies (provisional)</p>
