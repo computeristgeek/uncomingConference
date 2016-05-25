@@ -12,6 +12,9 @@
 			  <h1>Keynote Speakers</h1>
 			</div>
 	    </div>
+		 <div class="row">
+		  <h2>Keynote Speakers from Sweden (KTH, Royal Institute of Technology)</h2>
+	    </div>
 	    <div class="row">
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
@@ -138,7 +141,30 @@
 		    </div>
 		  </div>
 		</div>  
-		</div>
+		 <div class="row">
+		  <h2>Keynote Speakers from Egypt</h2>
+		 </div>
+	    <div class="row">
+		  <div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		      <img src="img/speaker/13.jpg" class="img-circle" alt="Speaker13">
+		      <div class="caption">
+		        <h3><center>Dr.Mohamed Elyamani, VP of the Ministry of Electrical and Renewable Energy</center></h3>
+		        <p>TBD</p>
+		      </div>
+		    </div>
+		  </div>
+		  <div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		      <img src="img/speaker/14.jpg" class="img-circle" alt="Speaker14">
+		      <div class="caption">
+		        <h3><center>Dr. Abdel-Aty Edris, IEEE Fellow</center></h3>
+		        <p>Energy Storage and the Electric Grid of the Future (Smart Grids)</p>
+		      </div>
+		    </div>
+		  </div>
+	   </div>
+	  </div>
 	</div>
 
 <?php include('footer.php'); ?>
