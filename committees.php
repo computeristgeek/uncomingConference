@@ -230,33 +230,6 @@
 		    <td>Prof.Ahmed Abd El Metaal</td>
 		</tr>
 		<tr>
-		    <td rowspan="3">Finance Committee</td>
-		    <td>Dr.Mohamed AbdelWahab</td>
-		</tr>
-		<tr>
-		    <td>Dr.Mohamed AbdelKerim</td>
-		</tr>
-		<tr>
-		    <td>Eng.Ramy Moussa</td>
-		</tr>
-		<tr>
-		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role02')">
-				Roles and Responsibilities:
-				<div style='display:none' id='role02'><ol>
-				<li>Controlling all incoming funds and disbursements.</li>
-				<li>Opening a separate banking account.</li>
-				<li>Maintaining all financial records and paying all invoices subsequent to obtaining appropriate approval.</li>
-				<li>Arranging for collecting and documenting on-site registration fees as well as providing receipts, if requested.</li>
-				<li>Arranging to have receipt included in the registration packages.</li>
-				<li>Arranging for the safe-keeping of all money collected.</li>
-				<li>Providing appropriate input in the budgetary process, if and when required.</li>
-				<li>Invoicing attendances, Exhibitors…etc, as required.</li>
-				<li>Submitting a monthly financial report at the Committee meetings and to the Secretary General.</li>
-				<li>Submitting a full financial report to the Secretary General not later than 45 days after the conclusion of the conference or as when required to do so by the conference chairman.</li>
-				</ol></div>
-				</td>
-		</tr>
-		<tr>
 		    <td rowspan="4">Sponsorship & Exhibit</td>
 		    <td>Prof. Kadry Montaser</td>
 		</tr>
@@ -282,6 +255,33 @@
 				<li>Arranging for local publicity of the advance program.</li>
 				<li>Contacting various archival suppliers/vendors, consultants and any other firms to solicit on paid advertise for inclusion in the “Program brochure” and “Proceeding manual”.</li>
 				<li>Responsible for planning and organizing the trade show for suppliers/vendors and service oriented organizations to introduce stimulating state of the art technological displays and informative presentations.</li>
+				</ol></div>
+				</td>
+		</tr>
+		<tr>
+		    <td rowspan="3">Finance Committee</td>
+		    <td>Dr.Mohamed AbdelWahab</td>
+		</tr>
+		<tr>
+		    <td>Dr.Mohamed AbdelKerim</td>
+		</tr>
+		<tr>
+		    <td>Eng.Ramy Moussa</td>
+		</tr>
+		<tr>
+		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role02')">
+				Roles and Responsibilities:
+				<div style='display:none' id='role02'><ol>
+				<li>Controlling all incoming funds and disbursements.</li>
+				<li>Opening a separate banking account.</li>
+				<li>Maintaining all financial records and paying all invoices subsequent to obtaining appropriate approval.</li>
+				<li>Arranging for collecting and documenting on-site registration fees as well as providing receipts, if requested.</li>
+				<li>Arranging to have receipt included in the registration packages.</li>
+				<li>Arranging for the safe-keeping of all money collected.</li>
+				<li>Providing appropriate input in the budgetary process, if and when required.</li>
+				<li>Invoicing attendances, Exhibitors…etc, as required.</li>
+				<li>Submitting a monthly financial report at the Committee meetings and to the Secretary General.</li>
+				<li>Submitting a full financial report to the Secretary General not later than 45 days after the conclusion of the conference or as when required to do so by the conference chairman.</li>
 				</ol></div>
 				</td>
 		</tr>
