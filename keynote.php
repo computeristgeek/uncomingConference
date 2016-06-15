@@ -192,6 +192,15 @@
 		      </div>
 		    </div>
 		  </div>
+		  <div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		      <img src="img/speaker/17.jpg" class="img-circle" alt="Speaker17">
+		      <div class="caption">
+				<h3><center>Prof Taher Ahmed Al-Sahhaf, Kuwait University</center></h3>
+				<p>Vice president of research, Kuwait University<br />Sustainable Energy Research in Kuwait</p>
+		      </div>
+		    </div>
+		  </div>
 	   </div>
 	  </div>
 	</div>
