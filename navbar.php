@@ -36,7 +36,6 @@
           <ul class="dropdown-menu">
             <li><a href="brochure.php">Brochure</a></li>
             <li><a href="programme.php">Programme</a></li>
-            <li><a href="keynote.php">Keynote Speakers</a></li>
             <li><a href="committees.php">Committees</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="home.php#sponsors">Sponsors</a></li>
@@ -45,6 +44,7 @@
             <li><a href="aboutalex.php">About Alexandria</a></li>
           </ul>
         </li>
+        <li><a href="keynote.php">Keynote Speakers</a></li>
         <li><a href="sponsors.php">Sponsors</a></li>
         <li><a href="exhibitors.php">Exhibitors</a></li>
      	<li><a href="" data-toggle="modal" data-target="#contact-us">Contact us</a></li>
