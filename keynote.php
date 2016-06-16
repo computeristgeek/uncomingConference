@@ -142,7 +142,7 @@
 		  </div>
 		</div>  
 		 <div class="row">
-		  <h2>Keynote Speakers from Egypt</h2>
+		  <h2>Keynote Speakers from Egypt and Kuwait</h2>
 		 </div>
 	    <div class="row">
 		  <div class="col-sm-6 col-md-4">
