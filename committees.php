@@ -197,7 +197,11 @@
 	    <tbody>
 		<tr>
 		    <td>Head</td>
-		    <td>Dr. Ahmed Abdallah</td>
+		    <td>Prof. Ahmed Abdallah</td>
+		</tr>
+		<tr>
+		    <td></td>
+		    <td>Dr. Alaa Khalil</td>
 		</tr>
 		<tr>
 		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role09')">
@@ -230,7 +234,7 @@
 		    <td>Prof.Ahmed Abd El Metaal</td>
 		</tr>
 		<tr>
-		    <td rowspan="4">Sponsorship & Exhibit</td>
+		    <td rowspan="6">Sponsorship & Exhibit</td>
 		    <td>Prof. Kadry Montaser</td>
 		</tr>
 		<tr>
@@ -241,6 +245,9 @@
 		</tr>
 		<tr>
 		    <td>Dr.Yaser El-Kamshoushi</td>
+		</tr>
+		<tr>
+		    <td>Dr.Mona Ouf</td>
 		</tr>
 		<tr>
 		    <td>Eng.Mohamed El-Fakharany</td>
