@@ -13,6 +13,7 @@
 				<h3>The three types of submissions 1) Poster Submission, 2) Extended Abstract Submissions, 3) Full-Paper Submissions are accepted and published in the conference proceedings.</h3>
 				<h3>ATTENTION: Payments are done through the Bank Account, kindly mention the conference name and your email in the comments section.</h3>
 				<h3>NOTE: Posters / Full-Paper / Extended Abstract are to be sent through <img src="img/ICNTSEE.jpg" alt="ICNTSE EMAIL"/>.</h3>
+				<h3>ISSN: 2357-0865 (print), 2357-0873 (online)</h3>
 			</div>
 		</div>
 
@@ -46,6 +47,7 @@
 				<h3>The three types of submissions 1) Poster Submission, 2) Extended Abstract Submissions, 3) Full-Paper Submissions are accepted and published in the conference proceedings.</h3>
 				<h3>ATTENTION: Payments are done through the Bank Account, kindly mention the conference name and your email in the comments section.</h3>
 				<h3>NOTE: Posters / Full-Paper / Extended Abstract are to be sent through <img src="img/ICNTSEE.jpg" alt="ICNTSE EMAIL"/>.</h3>
+				<h3>ISSN: 2357-0865 (print), 2357-0873 (online)</h3>
 			</div>
 		</div>
 		<div class="row">
@@ -61,6 +63,7 @@
 				<h3>The three types of submissions 1) Poster Submission, 2) Extended Abstract Submissions, 3) Full-Paper Submissions are accepted and published in the conference proceedings.</h3>
 				<h3>ATTENTION: Payments are done through the Bank Account, kindly mention the conference name and your email in the comments section.</h3>
 				<h3>NOTE: Posters / Full-Paper / Extended Abstract are to be sent through <img src="img/ICNTSEE.jpg" alt="ICNTSE EMAIL"/>.</h3>
+				<h3>ISSN: 2357-0865 (print), 2357-0873 (online)</h3>
 			</div>
 		</div>
 		<div class="row">

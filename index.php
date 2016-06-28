@@ -15,7 +15,7 @@
                 <h1 id="icntse">ICNTSE</h1>
 		<div class="row">
 		    <div class="col-xs-12 col-md-7 shaded shadedBlock" id="chairman2"><span>Chairman: Prof.Mahmoud ElGammal (PUA)<br />Co-Chairman: Prof.Björn Palm (KTH)<br />Co-Chairman: Prof.Mamoun Muhammed (KTH)<br />Secretary General: Prof.Mohamed Fahim (PUA)</span></div>
-		    <div class="col-xs-12 col-md-5 shaded shadedBlock" id="_1-3oct"><span>1-3 October, 2016<br \>At Pharos University, Alexandria, Egypt</span></div>
+		    <div class="col-xs-12 col-md-5 shaded shadedBlock" id="_1-3oct"><span>1-3 October, 2016<br \>At Pharos University, Alexandria, Egypt<h5>ISSN: 2357-0865 (print), 2357-0873 (online)</h5></span></div>
                 </div>
 		<div class="row">
 		<div class="bottombar">
