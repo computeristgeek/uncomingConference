@@ -20,7 +20,17 @@
 		      <img src="img/speaker/13.jpg" class="img-circle" alt="Speaker13">
 		      <div class="caption">
 		        <h3><center>Dr.Mohamed Elyamani, MoEE</center></h3>
-		        <p>VP of the Ministry of Electrical and Renewable Energy<br />TBD</p>
+		        <p>VP of the Ministry of Electrical and Renewable Energy<br />National policy of egypt for renewable energy</p>
+		      </div>
+		    </div>
+		  </div>
+
+		  <div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		      <img src="img/speaker/19.jpg" class="img-circle" alt="Speaker7">
+		      <div class="caption">
+		        <h3><center>Prof. Mahmoud El Gammal, PUA</center></h3>
+		        <p>Dean of Faculty of Engineering<br />Distribution Generation</p>
 		      </div>
 		    </div>
 		  </div>
@@ -30,12 +40,15 @@
 		      <img src="img/speaker/7.jpg" class="img-circle" alt="Speaker7">
 		      <div class="caption">
 		        <h3><center>Prof.Björn Palm, KTH</center></h3>
-		        <p>Solar Cooling, status and perspectives</p>
+		        <p>Future energy systems</p>
 		      </div>
 		    </div>
 		  </div>
 
-		   <div class="col-sm-6 col-md-4">
+		</div>
+		<div class="row">
+
+		<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/12-inserted.jpg" class="img-circle" alt="Speaker12ins">
 		      <div class="caption">
@@ -44,9 +57,6 @@
 		      </div>
 		    </div>
 		  </div>
-
-		</div>
-		<div class="row">
 		 
 		<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
@@ -63,10 +73,13 @@
 		      <img src="img/speaker/3.jpg" class="img-circle" alt="Speaker3">
 		      <div class="caption">
 		        <h3><center>Prof.Semida Silveira, KTH</center></h3>
-		        <p>(TBD) - Traffic solutions or waste recycling</p>
+		        <p>Bioenergy</p>
 		      </div>
 		    </div>
 		  </div>
+
+		</div>
+		<div class="row">
 
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
@@ -77,9 +90,6 @@
 		      </div>
 		    </div>
 		  </div>
-
-		</div>
-		<div class="row">
 
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
@@ -101,7 +111,10 @@
 		    </div>
 		  </div>
 
-		   <div class="col-sm-6 col-md-4">
+		</div>
+		<div class="row">
+
+			<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/16.jpg" class="img-circle" alt="Speaker16">
 		      <div class="caption">
@@ -110,9 +123,6 @@
 		      </div>
 		    </div>
 		  </div>
-
-		</div>
-		<div class="row">
 
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
@@ -134,7 +144,10 @@
 		    </div>
 		  </div>
 
-		   <div class="col-sm-6 col-md-4">
+		</div>
+		<div class="row">
+
+			<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/10.jpg" class="img-circle" alt="Speaker10">
 		      <div class="caption">
@@ -144,15 +157,12 @@
 		    </div>
 		  </div>
 
-		</div>
-		<div class="row">
-
 		   <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/9.jpg" class="img-circle" alt="Speaker9">
 		      <div class="caption">
 		        <h3><center>Prof.Alexis Pontvik, KTH</center></h3>
-		        <p>TBD.</p>
+		        <p>Energy conservation</p>
 		      </div>
 		    </div>
 		  </div>
@@ -167,12 +177,26 @@
 		    </div>
 		  </div>
 
+	</div>
+
+	<div class= "row">
+
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/8.jpg" class="img-circle" alt="Speaker8">
 		      <div class="caption">
 		        <h3><center>Prof.Göran Engdahl, KTH</center></h3>
 		        <p>TBD</p>
+		      </div>
+		    </div>
+		  </div>
+
+		  <div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		      <img src="img/speaker/20.jpg" class="img-circle" alt="Speaker8">
+		      <div class="caption">
+		        <h3><center>Prof. Hisham El Shimy, PUA</center></h3>
+		        <p>Professor of Architectural Engineering, Green Housing</p>
 		      </div>
 		    </div>
 		  </div>
