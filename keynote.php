@@ -30,7 +30,7 @@
 		      <img src="img/speaker/19.jpg" class="img-circle" alt="Speaker7">
 		      <div class="caption">
 		        <h3><center>Prof. Mahmoud El Gammal, PUA</center></h3>
-		        <p>Dean of Faculty of Engineering<br />Distribution Generation</p>
+		        <p>Dean of Faculty of Engineering<br />Distributed Generation</p>
 		      </div>
 		    </div>
 		  </div>
@@ -63,7 +63,7 @@
 		      <img src="img/speaker/17.jpg" class="img-circle" alt="Speaker17">
 		      <div class="caption">
 				<h3><center>Prof Taher Ahmed Al-Sahhaf, Kuwait University</center></h3>
-				<p>Vice president of research, Kuwait University<br />Sustainable Energy Research in Kuwait</p>
+				<p>Vice president of research, Kuwait University<br />Sustainable Energy Research in Kuwait &nbsp; GCC Countries</p>
 		      </div>
 		    </div>
 		  </div>
@@ -105,7 +105,7 @@
 		    <div class="thumbnail">
 		      <img src="img/speaker/5.jpg" class="img-circle" alt="Speaker5">
 		      <div class="caption">
-		        <h3><center>Prof.Klas Engwall, KTH</center></h3>
+		        <h3><center>Prof.Klas Engvall, KTH</center></h3>
 		        <p>Trends in thermochemical conversion of waste and biomass</p>
 		      </div>
 		    </div>
@@ -162,7 +162,7 @@
 		      <img src="img/speaker/9.jpg" class="img-circle" alt="Speaker9">
 		      <div class="caption">
 		        <h3><center>Prof.Alexis Pontvik, KTH</center></h3>
-		        <p>Energy conservation</p>
+		        <p>Sustainable Urban Form</p>
 		      </div>
 		    </div>
 		  </div>
@@ -186,7 +186,7 @@
 		      <img src="img/speaker/8.jpg" class="img-circle" alt="Speaker8">
 		      <div class="caption">
 		        <h3><center>Prof.Göran Engdahl, KTH</center></h3>
-		        <p>TBD</p>
+		        <p>Energy Efficiency of Electric Drives</p>
 		      </div>
 		    </div>
 		  </div>
