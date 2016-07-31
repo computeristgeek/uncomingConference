@@ -19,6 +19,7 @@
     <link rel="stylesheet" type="text/css" href="css/navbar_blue.css">
     <link href="css/news.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" type="text/css" href="css/newsfeed.css">
+    <link rel="stylesheet" type="text/css" href="css/carousel.css">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
