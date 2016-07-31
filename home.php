@@ -25,7 +25,101 @@
 <div  id="alex" class= "container">
 	<hr class="featurette-divider">
 
-      <divclass="row featurette">
+  <div class='row'>
+    <div class='col-md-offset-1 col-md-2'>
+      <img class="img-responsive" src="img/news-icon-13.png">
+    </div>
+    <div class='col-md-8'>
+      <div class="carousel slide" data-ride="carousel" id="quote-carousel">
+        <!-- Bottom Carousel Indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
+          <li data-target="#quote-carousel" data-slide-to="1"></li>
+          <li data-target="#quote-carousel" data-slide-to="2"></li>
+          <li data-target="#quote-carousel" data-slide-to="3"></li>
+          <li data-target="#quote-carousel" data-slide-to="4"></li>
+          <li data-target="#quote-carousel" data-slide-to="5"></li>
+        </ol>
+        
+        <!-- Carousel Slides / News -->
+        <div class="carousel-inner">
+        
+          <!-- News 1 -->
+          <div class="item active">
+            <blockquote>
+              <div class="row">
+                <div class="col-sm-12">
+                  <p>Selected papers will be submitted to the journal of <b>"Renewable energy and sustainable development"</b> for possible publications. Authors had to follow up this with the journal editor.</p>
+                  <small>Important News</small>
+                </div>
+              </div>
+            </blockquote>
+          </div>
+          <!-- News 2 -->
+          <div class="item">
+            <blockquote>
+              <div class="row">
+                <div class="col-sm-12">
+                  <p>Submission of abstracts papers has been closed by <b>July 31st, 2016</b></p>
+                  <small>Important News</small>
+                </div>
+              </div>
+            </blockquote>
+          </div>
+          <!-- News 3 -->
+          <div class="item">
+            <blockquote>
+              <div class="row">
+                <div class="col-sm-12">
+                  <p>Final paper submission to the conference will be closed by <b>August 15, 2016</b></p>
+                  <small>Important News</small>
+                </div>
+              </div>
+            </blockquote>
+          </div>
+          <!-- News 4 -->
+          <div class="item">
+            <blockquote>
+              <div class="row">
+                <div class="col-sm-12">
+                  <p>Keynote speakers submission to the conference will be closed by <b>August 15, 2016</b></b></p>
+                  <small>Important News</small>
+                </div>
+              </div>
+            </blockquote>
+          </div>
+          <!-- News 5 -->
+          <div class="item">
+            <blockquote>
+              <div class="row">
+                <div class="col-sm-12">
+                  <p>Late registration fees for attendance is 500 LE, After <b>August 1st, 2016</b></p>
+                  <small>Important News</small>
+                </div>
+              </div>
+            </blockquote>
+          </div>
+          <!-- News 6 -->
+          <div class="item">
+            <blockquote>
+              <div class="row">
+                <div class="col-sm-12">
+                  <p>Late full paper submission fees will be 900 LE, By <b>September 15, 2016</b></p>
+                  <small>Important News</small>
+                </div>
+              </div>
+            </blockquote>
+          </div>
+        </div>
+        
+        <!-- Carousel Buttons Next/Prev -->
+        <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
+        <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
+      </div>                          
+    </div>
+  </div>
+
+      <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">About Alexandria. <span class="text-muted">The bride of the mediterranean.</span></h2>
           <p class="lead">Alexandria is the largest city on the Mediterranean Coast and the second largest city in Egypt, extending about 32 km (20 mi) along the coast. Founded 331 BC by Alexander the Great, it remained the capital of Hellenistic and Roman and Byzantine Egypt for almost 1000 years. Hellenistic Alexandria was best known for the Lighthouse of Alexandria (Pharos), one of the Seven Wonders of the Ancient World ... <a class="btn btn-info btn-sm" href="aboutalex.php" role="button">Read more</a></p>
@@ -299,4 +393,16 @@
         </div><!-- /.col-md-4 -->
       </div><!-- /.row -->
   </div>
+<script src="http://codeorigin.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+  // When the DOM is ready, run this function
+$(document).ready(function() {
+  //Set the carousel options
+  $('#quote-carousel').carousel({
+    pause: true,
+    interval: 10000,
+  });
+});
+</script>
 <?php include 'footer.php' ?>
