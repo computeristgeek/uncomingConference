@@ -8,12 +8,11 @@
 <?php include('navbar.php'); ?>
     <div class="container">
 	    <div class="row">
-		<div class="page-header">
-		    <h1>Abstract Submission</h1>
-		</div>
+	    	<div class='col-md-8 col-md-offset-2 text-center'>
+	    		<img class='img-responsive' src="img/sign-warning-icon.png" style='margin:0 auto;'>
+	    		<h2>Abstract Submission is Closed !</h2>
+	    	</div>
 	    </div>
-	    <div class="embed-responsive embed-responsive-16by9">
-		    <iframe src="https://docs.google.com/forms/d/1dnfSRYFPsS3socC9UDD-zPKSuNluzvF03CH4cIrfXb0/viewform?embedded=true" class="embed-responsive-item" >Loading...</iframe>
-	    </div>
+	    
     </div>
 <?php include 'footer.php' ?>
