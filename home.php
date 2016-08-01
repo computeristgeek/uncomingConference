@@ -393,8 +393,6 @@
         </div><!-- /.col-md-4 -->
       </div><!-- /.row -->
   </div>
-<script src="http://codeorigin.jquery.com/jquery-1.10.2.min.js"></script>
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
 <script type="text/javascript">
   // When the DOM is ready, run this function
 $(document).ready(function() {
