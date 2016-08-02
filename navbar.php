@@ -48,6 +48,7 @@
         <li><a href="sponsors.php">Sponsors</a></li>
         <li><a href="exhibitors.php">Exhibitors</a></li>
      	<li><a href="" data-toggle="modal" data-target="#contact-us">Contact us</a></li>
+     	<li><a href="news.php"><img src="img/alert.gif" /></a></li>
         
       </ul>
     </div><!-- /.navbar-collapse -->
