@@ -55,7 +55,7 @@ body
 	/*font-family:'Century Gothic','CenturyGothic';*/
 }
 #main
-{ 
+{
 	background-image:url('../img/AlexandriaLibrary.jpg');
 	background-size:cover;
 	height:878px;
@@ -81,7 +81,7 @@ body
 	color:white;
 	font-size:4em;
 	font-family:'CenturyGothic-Bold','century-gothic-bold';
-	letter-spacing:0.25em;	
+	letter-spacing:0.25em;
 }
 .shaded
 {
@@ -229,7 +229,7 @@ body
 	padding-bottom:0;
 	font-size:1.5em;
 }
-#icntsefield1,#icntsefield2,#icntsefield3,#icntsefield4,#icntsefield5 
+#icntsefield1,#icntsefield2,#icntsefield3,#icntsefield4,#icntsefield5
 {
 	display:none;
 	color:gold;

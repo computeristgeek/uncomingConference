@@ -7,12 +7,12 @@
 ?>
 <?php include 'header.php' ?>
 <body style="padding-top:50px;">
-<?php include('navbar.php'); ?>	
+<?php include('navbar.php'); ?>
 
 <!-- Carousal -->
 <div class="container">
 <div class="row">
-                    
+
 <!-- parallax -->
     <main>
       <section class="module parallax parallax-1">
@@ -40,10 +40,10 @@
           <li data-target="#quote-carousel" data-slide-to="4"></li>
           <li data-target="#quote-carousel" data-slide-to="5"></li>
         </ol>
-        
+
         <!-- Carousel Slides / News -->
         <div class="carousel-inner">
-        
+
           <!-- News 1 -->
           <div class="item active">
             <blockquote>
@@ -111,11 +111,11 @@
             </blockquote>
           </div>
         </div>
-        
+
         <!-- Carousel Buttons Next/Prev -->
         <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
         <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
-      </div>                          
+      </div>
     </div>
   </div>
 
@@ -145,13 +145,13 @@
     <div class="item">
       <img src="img/AlexandriaLibrary2.jpg" alt="Bibliotheca Alexandrina">
       <div class="carousel-caption">
-        Bibliotheca Alexandria 
+        Bibliotheca Alexandria
       </div>
     </div>
     <div class="item">
       <img src="img/stanley.jpg" alt="Stanley Bridge">
       <div class="carousel-caption">
-        Stanley Bridge   
+        Stanley Bridge
       </div>
     </div>
   </div>
@@ -355,7 +355,7 @@
     <div class="col-md-7">
       <h1>Venue & Accommodation</h1>
       <h4>
-        The venue of this conference is Alexandria "The Mediterranean Pearl". It is a thriving city, rich in beauty, heritage, culture and history as it has been Egypt's prime gate throughout history that prevailed for centuries as the world's greatest repository of knowledge and exporter of culture. We look forward to seeing you this October in our beautiful city. 
+        The venue of this conference is Alexandria "The Mediterranean Pearl". It is a thriving city, rich in beauty, heritage, culture and history as it has been Egypt's prime gate throughout history that prevailed for centuries as the world's greatest repository of knowledge and exporter of culture. We look forward to seeing you this October in our beautiful city.
 
         <br><br>Special rates for the accommodation for our participants are in:
         <br>
@@ -377,19 +377,19 @@
       <!-- Three columns of text below circle pictures -->
       <div class="row">
         <div class="col-md-4">
-          <img class="img-circle center-block" src="img/sponsor1.jpg" width="140" height="140" alt="Sponsor Logo">
+          <img class="img-responsive img-circle center-block" src="img/sponsor1.jpg" width="140" height="140" alt="Sponsor Logo">
           <h3 align="center">Swedish Institute</h3>
-          
+
         </div><!-- /.col-md-4 -->
         <div class="col-md-4">
-          <img class="img-circle center-block" src="img/logo.png" width="140" height="140" alt="Sponsor Logo">
-          <h3 align="center">Sponsor 2</h3>
-          
+          <img class="img-responsive img-circle center-block" src="img/giza.png" width="140" height="140" alt="Sponsor Logo">
+          <h3 align="center">Giza Systems</h3>
+
         </div><!-- /.col-md-4 -->
         <div class="col-md-4">
-          <img class="img-circle center-block" src="img/logo.png" width="140" height="140" alt="Sponsor Logo">
-          <h3 align="center">Sponsor 3</h3>
-         
+          <img class="img-responsive center-block" src="img/abb.png" width="140" height="140" alt="Sponsor Logo">
+          <h3 align="center">ABB</h3>
+
         </div><!-- /.col-md-4 -->
       </div><!-- /.row -->
   </div>
