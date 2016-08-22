@@ -30,7 +30,7 @@
 		      <img src="img/speaker/19.jpg" class="img-circle" alt="Speaker7">
 		      <div class="caption">
 		        <h3><center>Prof. Mahmoud El Gammal, PUA</center></h3>
-		        <p>Dean of Faculty of Engineering<br />Distributed Generation</p>
+		        <p>Professor of Electrical Engineering<br />Distributed Generation</p>
 		      </div>
 		    </div>
 		  </div>
@@ -47,6 +47,16 @@
 
 		</div>
 		<div class="row">
+
+		<div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		      <img src="img/speaker/21.jpg" class="img-circle" alt="Speaker8">
+		      <div class="caption">
+		        <h3><center>Prof. Osama El Masry, PUA</center></h3>
+		        <p>Professor of Mechanical Engineering<br />TBD</p>
+		      </div>
+		    </div>
+		  </div>
 
 		<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
@@ -68,7 +78,9 @@
 		    </div>
 		  </div>
 
-		  <div class="col-sm-6 col-md-4">
+		</div>
+		<div class="row">
+		<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/3.jpg" class="img-circle" alt="Speaker3">
 		      <div class="caption">
@@ -77,9 +89,6 @@
 		      </div>
 		    </div>
 		  </div>
-
-		</div>
-		<div class="row">
 
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
@@ -101,7 +110,9 @@
 		    </div>
 		  </div>
 
-		<div class="col-sm-6 col-md-4">
+		</div>
+		<div class="row">
+			<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/5.jpg" class="img-circle" alt="Speaker5">
 		      <div class="caption">
@@ -110,9 +121,6 @@
 		      </div>
 		    </div>
 		  </div>
-
-		</div>
-		<div class="row">
 
 			<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
@@ -134,7 +142,9 @@
 		    </div>
 		  </div>
 
-		<div class="col-sm-6 col-md-4">
+		</div>
+		<div class="row">
+			<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/2.jpg" class="img-circle" alt="Speaker2">
 		      <div class="caption">
@@ -143,9 +153,6 @@
 		      </div>
 		    </div>
 		  </div>
-
-		</div>
-		<div class="row">
 
 			<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
@@ -166,7 +173,10 @@
 		      </div>
 		    </div>
 		  </div>
-		
+
+	</div>
+
+	<div class= "row">
 		<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/11.jpg" class="img-circle" alt="Speaker11">
@@ -176,10 +186,6 @@
 		      </div>
 		    </div>
 		  </div>
-
-	</div>
-
-	<div class= "row">
 
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
@@ -196,7 +202,7 @@
 		      <img src="img/speaker/20.jpg" class="img-circle" alt="Speaker8">
 		      <div class="caption">
 		        <h3><center>Prof. Hisham El Shimy, PUA</center></h3>
-		        <p>Professor of Architectural Engineering, Green Housing</p>
+		        <p>Professor of Architectural Engineering<br />Green Housing</p>
 		      </div>
 		    </div>
 		  </div>
