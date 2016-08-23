@@ -376,21 +376,26 @@
  </div>
       <!-- Three columns of text below circle pictures -->
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-3">
           <img class="img-responsive img-circle center-block" src="img/sponsor1.jpg" width="140" height="140" alt="Sponsor Logo">
           <h3 align="center">Swedish Institute</h3>
 
-        </div><!-- /.col-md-4 -->
-        <div class="col-md-4">
+        </div><!-- /.col-md-3 -->
+        <div class="col-md-3">
           <img class="img-responsive img-circle center-block" src="img/giza.png" width="140" height="140" alt="Sponsor Logo">
           <h3 align="center">Giza Systems</h3>
 
-        </div><!-- /.col-md-4 -->
-        <div class="col-md-4">
+        </div><!-- /.col-md-3 -->
+        <div class="col-md-3">
           <img class="img-responsive center-block" src="img/abb.png" width="140" height="140" alt="Sponsor Logo">
           <h3 align="center">ABB</h3>
 
-        </div><!-- /.col-md-4 -->
+        </div><!-- /.col-md-3 -->
+        <div class="col-md-3">
+          <img class="img-responsive center-block" src="img/sponsor4_2.jpg" width="140" height="140" alt="Sponsor Logo">
+          <h3 align="center">Smart Systems</h3>
+
+        </div><!-- /.col-md-3 -->
       </div><!-- /.row -->
   </div>
 <script type="text/javascript">
