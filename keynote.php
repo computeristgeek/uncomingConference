@@ -52,7 +52,7 @@
 		    <div class="thumbnail">
 		      <img src="img/speaker/21.jpg" class="img-circle" alt="Speaker8">
 		      <div class="caption">
-		        <h3><center>Prof. Osama El Masry</center></h3>
+		        <h3><center>Prof. Osama El Masry, PUA</center></h3>
 		        <p>Vice president, Pharos University in Alexandria<br />Renewable Energy for EGYPT</p>
 		      </div>
 		    </div>
