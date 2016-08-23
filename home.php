@@ -392,7 +392,7 @@
 
         </div><!-- /.col-md-3 -->
         <div class="col-md-3">
-          <img class="img-responsive center-block" src="img/sponsor4_2.jpg" width="140" height="140" alt="Sponsor Logo">
+          <img class="img-responsive center-block" src="img/sponsor4_2.JPG" width="140" height="140" alt="Sponsor Logo">
           <h3 align="center">Smart Systems</h3>
 
         </div><!-- /.col-md-3 -->
