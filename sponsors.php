@@ -22,7 +22,7 @@
 		<div class="col-md-12">
 			  <h2 class="featurette-heading">Package Options</h2>
 			  <table class="table" id="sponsors_table">
-				<tbody><tr><th>Package Options</th><th>Main Items Included</th><th>Advertisement in the Program Pamphlet</th><th>Amount in EGP (unit price)</th></tr>
+				<tbody><tr><th>Package Options</th><th>Main Items Included</th><th>Advertisement in the Program Pamphlet</th></tr>
 				<tr class="success">
 					<td>Diamond Sponsor</td>
 					<td>
@@ -35,7 +35,6 @@
 						</ul>
 					</td>
 					<td>Additional 4 full inside page colour advertisements</td>
-					<td>30,000</td>
 				</tr>
 				<tr class="warning">
 					<td>Gold Sponsor</td>
@@ -48,7 +47,6 @@
 						</ul>
 					</td>
 					<td>Additional 3 full inside page colour advertisements</td>
-					<td>22,000</td>
 				</tr>
 				<tr class="active">
 					<td>Silver Sponsor</td>
@@ -60,7 +58,6 @@
 						</ul>
 					</td>
 					<td>Additional 2 full inside page colour advertisements</td>
-					<td>17,000</td>
 				</tr>
 				<tr class="danger">
 					<td>Bronze Sponsor</td>
@@ -71,7 +68,6 @@
 						</ul>
 					</td>
 					<td>Additional 1 full inside page colour advertisement</td>
-					<td>10,000</td>
 				</tr>
 				</tbody></table>
 		</div>
