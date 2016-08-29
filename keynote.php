@@ -102,7 +102,7 @@
 
 		   <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
-		      <img src="img/speaker/22.jpg" class="img-circle" alt="Speaker15">
+		      <img src="img/speaker/22.JPG" class="img-circle" alt="Speaker15">
 		      <div class="caption">
 		        <h3><center>Prof. Radwan H. Abdel Hamid</center></h3>
 		        <p><br />TBD</p>
