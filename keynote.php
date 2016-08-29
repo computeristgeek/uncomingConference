@@ -52,7 +52,7 @@
 		    <div class="thumbnail">
 		      <img src="img/speaker/21.jpg" class="img-circle" alt="Speaker8">
 		      <div class="caption">
-		        <h3><center>Prof. Osama El Masry, PUA</center></h3>
+		        <h3><center>Prof. Osama El Masry</center></h3>
 		        <p>Vice president, Pharos University in Alexandria<br />Renewable Energy for EGYPT</p>
 		      </div>
 		    </div>
@@ -100,7 +100,19 @@
 		    </div>
 		  </div>
 
-		  <div class="col-sm-6 col-md-4">
+		   <div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		      <img src="img/speaker/22.jpg" class="img-circle" alt="Speaker15">
+		      <div class="caption">
+		        <h3><center>Prof. Radwan H. Abdel Hamid</center></h3>
+		        <p><br />TBD</p>
+		      </div>
+		    </div>
+		  </div>
+
+		</div>
+		<div class="row">
+			 <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/18.jpg" class="img-circle" alt="Speaker15">
 		      <div class="caption">
@@ -110,8 +122,6 @@
 		    </div>
 		  </div>
 
-		</div>
-		<div class="row">
 			<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/5.jpg" class="img-circle" alt="Speaker5">
@@ -132,7 +142,10 @@
 		    </div>
 		  </div>
 
-		  <div class="col-sm-6 col-md-4">
+		</div>
+
+		<div class="row">
+			 <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/avatar.jpg" class="img-circle" alt="Speaker6">
 		      <div class="caption">
@@ -142,8 +155,6 @@
 		    </div>
 		  </div>
 
-		</div>
-		<div class="row">
 			<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/2.jpg" class="img-circle" alt="Speaker2">
@@ -164,7 +175,10 @@
 		    </div>
 		  </div>
 
-		   <div class="col-sm-6 col-md-4">
+	</div>
+
+	<div class= "row">
+		<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/9.jpg" class="img-circle" alt="Speaker9">
 		      <div class="caption">
@@ -174,9 +188,6 @@
 		    </div>
 		  </div>
 
-	</div>
-
-	<div class= "row">
 		<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/11.jpg" class="img-circle" alt="Speaker11">
@@ -197,6 +208,8 @@
 		    </div>
 		  </div>
 
+	</div>
+	<div class="row">
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/20.jpg" class="img-circle" alt="Speaker8">
@@ -206,7 +219,6 @@
 		      </div>
 		    </div>
 		  </div>
-
 	</div>
 
 <?php include('footer.php'); ?>
