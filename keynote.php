@@ -80,16 +80,7 @@
 
 		</div>
 		<div class="row">
-		<div class="col-sm-6 col-md-4">
-		    <div class="thumbnail">
-		      <img src="img/speaker/3.jpg" class="img-circle" alt="Speaker3">
-		      <div class="caption">
-		        <h3><center>Prof.Semida Silveira, KTH</center></h3>
-		        <p>Bioenergy</p>
-		      </div>
-		    </div>
-		  </div>
-
+		
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/15.jpg" class="img-circle" alt="Speaker15">
@@ -105,14 +96,12 @@
 		      <img src="img/speaker/22.JPG" class="img-circle" alt="Speaker15">
 		      <div class="caption">
 		        <h3><center>Prof. Radwan H. Abdel Hamid</center></h3>
-		        <p><br />TBD</p>
+		        <p>Multipurpose Applications by Thermodynamic Solar (MATS)</p>
 		      </div>
 		    </div>
 		  </div>
 
-		</div>
-		<div class="row">
-			 <div class="col-sm-6 col-md-4">
+		   <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/18.jpg" class="img-circle" alt="Speaker15">
 		      <div class="caption">
@@ -122,12 +111,16 @@
 		    </div>
 		  </div>
 
+		</div>
+		<div class="row">
+			
+
 			<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/5.jpg" class="img-circle" alt="Speaker5">
 		      <div class="caption">
 		        <h3><center>Prof.Klas Engvall, KTH</center></h3>
-		        <p>Trends in thermochemical conversion of waste and biomass</p>
+		        <p>Trends in thermochemical conversion of waste and biomass (Video Conference)</p>
 		      </div>
 		    </div>
 		  </div>
@@ -142,20 +135,7 @@
 		    </div>
 		  </div>
 
-		</div>
-
-		<div class="row">
-			 <div class="col-sm-6 col-md-4">
-		    <div class="thumbnail">
-		      <img src="img/speaker/avatar.jpg" class="img-circle" alt="Speaker6">
-		      <div class="caption">
-		        <h3><center>Prof.Åsa Stenmark, KTH</center></h3>
-		        <p>Waste streams for chemical conversion technologies (provisional)</p>
-		      </div>
-		    </div>
-		  </div>
-
-			<div class="col-sm-6 col-md-4">
+		  	<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/2.jpg" class="img-circle" alt="Speaker2">
 		      <div class="caption">
@@ -164,6 +144,10 @@
 		      </div>
 		    </div>
 		  </div>
+
+		</div>
+
+		<div class="row">
 
 			<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
@@ -175,10 +159,7 @@
 		    </div>
 		  </div>
 
-	</div>
-
-	<div class= "row">
-		<div class="col-sm-6 col-md-4">
+		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/9.jpg" class="img-circle" alt="Speaker9">
 		      <div class="caption">
@@ -188,7 +169,7 @@
 		    </div>
 		  </div>
 
-		<div class="col-sm-6 col-md-4">
+		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/11.jpg" class="img-circle" alt="Speaker11">
 		      <div class="caption">
@@ -198,6 +179,10 @@
 		    </div>
 		  </div>
 
+	</div>
+
+	<div class= "row">
+	
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/8.jpg" class="img-circle" alt="Speaker8">
@@ -208,9 +193,7 @@
 		    </div>
 		  </div>
 
-	</div>
-	<div class="row">
-		  <div class="col-sm-6 col-md-4">
+		    <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/20.jpg" class="img-circle" alt="Speaker8">
 		      <div class="caption">
@@ -219,6 +202,7 @@
 		      </div>
 		    </div>
 		  </div>
+
 	</div>
 
 <?php include('footer.php'); ?>
