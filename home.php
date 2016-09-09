@@ -406,7 +406,7 @@
       </div><!--/.row-->
       <div class="row">
          <div class="col-md-4 col-md-offset-4">
-           <img class="img-responsive center-block" src="img/sponsor7.jpg" width="140" height="140" alt="Sponsor Logo">
+           <img class="img-responsive center-block" src="img/sponsor7.JPG" width="140" height="140" alt="Sponsor Logo">
         </div><!--/.col-md-6-->
       </div>
   </div>
