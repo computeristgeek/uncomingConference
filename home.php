@@ -378,22 +378,18 @@
       <div class="row">
         <div class="col-md-3">
           <img class="img-responsive img-circle center-block" src="img/sponsor1.jpg" width="140" height="140" alt="Sponsor Logo">
-          <h4 align="center">Swedish Institute</h4>
         </div><!-- /.col-md-3 -->
 
         <div class="col-md-3">
           <img class="img-responsive img-circle center-block" src="img/giza.png" width="140" height="140" alt="Sponsor Logo">
-          <h4 align="center">Giza Systems</h4>
 
         </div><!-- /.col-md-3 -->
         <div class="col-md-3">
           <img class="img-responsive center-block" src="img/abb.png" width="140" height="140" alt="Sponsor Logo">
-          <h4 align="center">ABB</h4>
         </div><!-- /.col-md-3 -->
 
         <div class="col-md-3">
           <img class="img-responsive center-block" src="img/sponsor4_2.JPG" width="140" height="140" alt="Sponsor Logo">
-          <h4 align="center">Smart Systems</h4>
         </div><!-- /.col-md-3 -->
 
       </div><!-- /.row -->
@@ -401,15 +397,21 @@
       <div class="row">
         <div class="col-md-6">
            <img class="img-responsive center-block" src="img/Sponsor6.jpg" width="140" height="140" alt="Sponsor Logo">
-          <h4 align="center">Nile Sugar</h4>
         </div><!--/.col-md-6-->
 
         <div class="col-md-6">
            <img class="img-responsive center-block" src="img/sponsor5.png" width="140" height="140" alt="Sponsor Logo">
-          <h4 align="center">AlexFert</h4>
         </div><!--/.col-md-6-->
+
       </div><!--/.row-->
+      <div class="row">
+         <div class="col-md-4 col-md-offset-4">
+           <img class="img-responsive center-block" src="img/sponsor7.jpg" width="140" height="140" alt="Sponsor Logo">
+        </div><!--/.col-md-6-->
+      </div>
   </div>
+</div>
+</div>
 <script type="text/javascript">
   // When the DOM is ready, run this function
 $(document).ready(function() {
