@@ -101,21 +101,7 @@
 		    </div>
 		  </div>
 
-		   <div class="col-sm-6 col-md-4">
-		    <div class="thumbnail">
-		      <img src="img/speaker/18.jpg" class="img-circle" alt="Speaker15">
-		      <div class="caption">
-		        <h3><center>Prof.Ibrahim Ismail, Zewail City</center></h3>
-		        <p>Director of Renewable Energy Engineering Program, Zewail City of Science and Technology<br />Potentialities of Solar Energy in Egypt</p>
-		      </div>
-		    </div>
-		  </div>
-
-		</div>
-		<div class="row">
-			
-
-			<div class="col-sm-6 col-md-4">
+		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/5.jpg" class="img-circle" alt="Speaker5">
 		      <div class="caption">
@@ -125,6 +111,9 @@
 		    </div>
 		  </div>
 
+		</div>
+		<div class="row">
+			
 			<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/16.jpg" class="img-circle" alt="Speaker16">
@@ -145,19 +134,19 @@
 		    </div>
 		  </div>
 
-		</div>
-
-		<div class="row">
-
-			<div class="col-sm-6 col-md-4">
+		  	<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/10.jpg" class="img-circle" alt="Speaker10">
 		      <div class="caption">
 		        <h3><center>Prof.Yohannes Kiros, KTH</center></h3>
-		        <p>Alternative catalysts for anodic and cathodic reactions in water electrolysis</p>
+		        <p>Fuel Cell Technology</p>
 		      </div>
 		    </div>
 		  </div>
+
+		</div>
+
+		<div class="row">
 
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
@@ -179,10 +168,6 @@
 		    </div>
 		  </div>
 
-	</div>
-
-	<div class= "row">
-	
 		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/8.jpg" class="img-circle" alt="Speaker8">
@@ -193,12 +178,28 @@
 		    </div>
 		  </div>
 
+	</div>
+
+	<div class= "row">
+	
+		
+
 		    <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/20.jpg" class="img-circle" alt="Speaker8">
 		      <div class="caption">
 		        <h3><center>Prof. Hisham El Shimy, PUA</center></h3>
 		        <p>Professor of Architectural Engineering<br />Green Housing</p>
+		      </div>
+		    </div>
+		  </div>
+
+		  <div class="col-sm-6 col-md-4">
+		    <div class="thumbnail">
+		      <img src="img/speaker/18.jpg" class="img-circle" alt="Speaker15">
+		      <div class="caption">
+		        <h3><center>Prof.Ibrahim Ismail, Zewail City</center></h3>
+		        <p>Director of Renewable Energy Engineering Program, Zewail City of Science and Technology<br />Potentialities of Solar Energy in Egypt</p>
 		      </div>
 		    </div>
 		  </div>
