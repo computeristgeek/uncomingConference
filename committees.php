@@ -417,7 +417,7 @@
 				</td>
 		</tr>
 		<tr>
-		    <td rowspan="4">Website Committee</td>
+		    <td rowspan="5">Website Committee</td>
 		    <td>Dr.Amr ElSadany</td>
 		</tr>
 		<tr>
