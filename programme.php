@@ -34,18 +34,18 @@
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
 					<a href="programme.pdf">
-						<img src="img/day1.png" alt="Programme pg1">
+						<img src="img/day1.JPG" alt="Programme pg1">
 					</a>
 				</div>
 
 				<div class="item">
 					<a href="programme.pdf">
-						<img src="img/day2.png" alt="Programme pg2">
+						<img src="img/day2.JPG" alt="Programme pg2">
 					</a>
 				</div>
 				<div class="item">
 					<a href="programme.pdf">
-						<img src="img/day3.png" alt="Programme pg3">
+						<img src="img/day3.JPG" alt="Programme pg3">
 					</a>
 				</div>
 
