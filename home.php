@@ -410,7 +410,7 @@
 
       <div class="row">
          <div class="col-md-4 col-md-offset-3">
-           <img class="img-responsive" src="img/sponsor7.jpg" width="140" height="140" alt="Sponsor Logo">
+           <img class="img-responsive" src="img/sponsor7.JPG" width="140" height="140" alt="Sponsor Logo">
         </div><!--/.col-md-6-->
         <div class="col-md-2">
            <img class="img-responsive" src="img/sponsor8.png" width="140" height="140" alt="Sponsor Logo">
