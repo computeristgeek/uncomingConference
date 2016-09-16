@@ -395,20 +395,27 @@
       </div><!-- /.row -->
 
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-4">
            <img class="img-responsive center-block" src="img/Sponsor6.jpg" width="140" height="140" alt="Sponsor Logo">
-        </div><!--/.col-md-6-->
+        </div><!--/.col-md-4-->
 
-        <div class="col-md-6">
+        <div class="col-md-4">
            <img class="img-responsive center-block" src="img/sponsor5.png" width="140" height="140" alt="Sponsor Logo">
-        </div><!--/.col-md-6-->
+        </div><!--/.col-md-4-->
 
+        <div class="col-md-4">
+           <img class="img-responsive" src="img/sponsor9.jpg" width="140" height="140" alt="Sponsor Logo">
+        </div><!--/.col-md-4-->
       </div><!--/.row-->
+
       <div class="row">
-         <div class="col-md-4 col-md-offset-4">
-           <img class="img-responsive center-block" src="img/sponsor7.JPG" width="140" height="140" alt="Sponsor Logo">
+         <div class="col-md-4 col-md-offset-3">
+           <img class="img-responsive" src="img/sponsor7.jpg" width="140" height="140" alt="Sponsor Logo">
         </div><!--/.col-md-6-->
-      </div>
+        <div class="col-md-2">
+           <img class="img-responsive" src="img/sponsor8.png" width="140" height="140" alt="Sponsor Logo">
+        </div><!--/.col-md-6-->
+      </div> <!--row-->
   </div>
 </div>
 </div>
