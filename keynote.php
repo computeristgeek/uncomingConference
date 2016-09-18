@@ -101,19 +101,19 @@
 		    </div>
 		  </div>
 
-		  <div class="col-sm-6 col-md-4">
+		    <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
-		      <img src="img/speaker/5.jpg" class="img-circle" alt="Speaker5">
+		      <img src="img/speaker/11.jpg" class="img-circle" alt="Speaker11">
 		      <div class="caption">
-		        <h3><center>Prof.Klas Engvall, KTH</center></h3>
-		        <p>Trends in thermochemical conversion of waste and biomass (Video Conference)</p>
+		        <h3><center>Prof.Björn Laumert, KTH</center></h3>
+		        <p>The role and future potential of CSP in the MENA region.</p>
 		      </div>
 		    </div>
 		  </div>
 
 		</div>
 		<div class="row">
-			
+
 			<div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/16.jpg" class="img-circle" alt="Speaker16">
@@ -134,7 +134,7 @@
 		    </div>
 		  </div>
 
-		  	<div class="col-sm-6 col-md-4">
+		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
 		      <img src="img/speaker/10.jpg" class="img-circle" alt="Speaker10">
 		      <div class="caption">
@@ -152,18 +152,18 @@
 		    <div class="thumbnail">
 		      <img src="img/speaker/9.jpg" class="img-circle" alt="Speaker9">
 		      <div class="caption">
-		        <h3><center>Prof.Alexis Pontvik, KTH</center></h3>
+		        <h3><center>Prof. Alexis Pontvik, KTH</center></h3>
 		        <p>Sustainable Urban Form</p>
 		      </div>
 		    </div>
 		  </div>
 
-		  <div class="col-sm-6 col-md-4">
+		   <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
-		      <img src="img/speaker/11.jpg" class="img-circle" alt="Speaker11">
+		      <img src="img/speaker/20.jpg" class="img-circle" alt="Speaker8">
 		      <div class="caption">
-		        <h3><center>Prof.Björn Laumert, KTH</center></h3>
-		        <p>The role and future potential of CSP in the MENA region.</p>
+		        <h3><center>Prof. Hisham El Shimy, PUA</center></h3>
+		        <p>Professor of Architectural Engineering<br />Green Housing</p>
 		      </div>
 		    </div>
 		  </div>
@@ -172,7 +172,7 @@
 		    <div class="thumbnail">
 		      <img src="img/speaker/8.jpg" class="img-circle" alt="Speaker8">
 		      <div class="caption">
-		        <h3><center>Prof.Göran Engdahl, KTH</center></h3>
+		        <h3><center>Prof. Göran Engdahl, KTH</center></h3>
 		        <p>Energy Efficiency of Electric Drives</p>
 		      </div>
 		    </div>
@@ -181,15 +181,13 @@
 	</div>
 
 	<div class= "row">
-	
-		
 
-		    <div class="col-sm-6 col-md-4">
+		  <div class="col-sm-6 col-md-4">
 		    <div class="thumbnail">
-		      <img src="img/speaker/20.jpg" class="img-circle" alt="Speaker8">
+		      <img src="img/speaker/5.jpg" class="img-circle" alt="Speaker5">
 		      <div class="caption">
-		        <h3><center>Prof. Hisham El Shimy, PUA</center></h3>
-		        <p>Professor of Architectural Engineering<br />Green Housing</p>
+		        <h3><center>Prof.Klas Engvall, KTH</center></h3>
+		        <p>Trends in thermochemical conversion of waste and biomass (Video Conference)</p>
 		      </div>
 		    </div>
 		  </div>

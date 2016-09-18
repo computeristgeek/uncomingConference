@@ -377,7 +377,7 @@
       <!-- Three columns of text below circle pictures -->
       <div class="row">
         <div class="col-md-3">
-          <img class="img-responsive img-circle center-block" src="img/sponsor1.jpg" width="140" height="140" alt="Sponsor Logo">
+          <img class="img-responsive center-block" src="img/sponsor8.png" alt="Sponsor Logo">
         </div><!-- /.col-md-3 -->
 
         <div class="col-md-3">
@@ -413,7 +413,7 @@
            <img class="img-responsive" src="img/sponsor7.JPG" width="140" height="140" alt="Sponsor Logo">
         </div><!--/.col-md-6-->
         <div class="col-md-2">
-           <img class="img-responsive" src="img/sponsor8.png" width="140" height="140" alt="Sponsor Logo">
+           <img class="img-responsive" src="img/sponsor1.jpg" width="140" height="140" alt="Sponsor Logo">
         </div><!--/.col-md-6-->
       </div> <!--row-->
   </div>
