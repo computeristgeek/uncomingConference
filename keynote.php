@@ -192,16 +192,6 @@
 		    </div>
 		  </div>
 
-		  <div class="col-sm-6 col-md-4">
-		    <div class="thumbnail">
-		      <img src="img/speaker/18.jpg" class="img-circle" alt="Speaker15">
-		      <div class="caption">
-		        <h3><center>Prof.Ibrahim Ismail, Zewail City</center></h3>
-		        <p>Director of Renewable Energy Engineering Program, Zewail City of Science and Technology<br />Potentialities of Solar Energy in Egypt</p>
-		      </div>
-		    </div>
-		  </div>
-
 	</div>
 </div>
 
