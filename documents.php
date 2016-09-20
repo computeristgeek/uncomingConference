@@ -49,7 +49,7 @@
 	    		<img src="img/brochure.png" class="img-responsive" style="margin:0 auto;">
 	    		<h2 class="text-center">Brochure 2</h2>
 	    		<div class="text-center">
-	    			<a class="btn btn-primary" href="borchure2_web.pdf">Click here</a>
+	    			<a class="btn btn-primary" href="brochure2_web.pdf">Click here</a>
 	    		</div>
 	    	</div>
 	    </div>
