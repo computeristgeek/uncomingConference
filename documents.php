@@ -34,5 +34,26 @@
 	    	</div>
 	    </div>
 	</div>
+	<br/>
+	    <div class="row">
+	    	<div class="col-md-6">
+	    		<img src="img/topicIcon.png" class="img-responsive" style="margin:0 auto;">
+	    		<h2 class="text-center">Conference Topics</h2>
+	    		<div class="text-center">
+	    			<a class="btn btn-primary" href="topics.pdf">Click here</a>
+	    		</div>
+	    	</div>
+
+	    	<div class="col-md-6">
+	    		<div class="col-md-6">
+	    		<img src="img/brochure.png" class="img-responsive" style="margin:0 auto;">
+	    		<h2 class="text-center">Brochure 2</h2>
+	    		<div class="text-center">
+	    			<a class="btn btn-primary" href="borchure2_web.pdf">Click here</a>
+	    		</div>
+	    	</div>
+	    </div>
+	</div>
+
 </div>
 <?php include('footer.php'); ?>
