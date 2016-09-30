@@ -166,7 +166,7 @@
 		    <td>(KTH)</td>
 		</tr>
 		<tr>
-		    <td colspan="2">* Chairs<br />PUA = Pharos University in ALexandria<br />AU = Alexandria University<br />MU = Menoufia University<br />KFS = Kafrelsheikh University<br />TU = Tanta University<br />ASWU = Aswan University<br />ASU = Ain Shams University<br />PSU = Port Said University<br />CU = Cairo University<br />HU = Helwan University<br />KTH = Royal Sweden Institute of Technology</td>
+		    <td colspan="2">* Chairs<br />PUA = Pharos University in ALexandria<br />AU = Alexandria University<br />MU = Menoufia University<br />KFS = Kafrelsheikh University<br />TU = Tanta University<br />ASWU = Aswan University<br />ASU = Ain Shams University<br />PSU = Port Said University<br />CU = Cairo University<br />HU = Helwan University<br />KTH = Royal nstitute of Technology</td>
 		</tr>
 		<tr>
 		    <td colspan="2" class="handcursor" onclick="toggle_visibility('role00')">
