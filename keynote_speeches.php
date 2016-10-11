@@ -4,6 +4,11 @@
 	$title='Keynote Speeches - ICNTSE';
 ?>
 <?php include('header.php'); ?>
+<style type="text/css">
+	td{
+		font-weight: bold;
+	}
+</style>
 <body style="padding-top:50px;">
 	<?php include('navbar.php'); ?>
 	<div class="container">
@@ -30,21 +35,21 @@
 			</tr>
 			<tr>
 				<td>2</td>
-				<td>Said Salah Eldin Elnashaie</td>
-				<td>Sustainable Development Engineering</td>
-				<td><a href="keynote_speeches/Elnashaie.pdf">Download</a></td>
+				<td>Mahmoud El-Gammal</td>
+				<td>Dostributed Generation</td>
+				<td><a href="keynote_speeches/Gammal.pdf">Download</a></td>
 			</tr>
 			<tr>
 				<td>3</td>
-				<td>G. Engdahl</td>
-				<td>Electric Power Component Design</td>
-				<td><a href="keynote_speeches/Engdahl.pdf">Download</a></td>
+				<td>Björn Palm</td>
+				<td>Future Energy Systems</td>
+				<td><a href="keynote_speeches/Palm_2.pdf">Download</a></td>
 			</tr>
 			<tr>
 				<td>4</td>
-				<td>Björn Laumert</td>
-				<td>Solar Power CSP</td>
-				<td><a href="keynote_speeches/Laumert.pdf">Download</a></td>
+				<td>Osama El Masry</td>
+				<td>Renewable Energy for Egypt</td>
+				<td><a href="keynote_speeches/Osama.pdf">Download</a></td>
 			</tr>
 			<tr>
 				<td>5</td>
@@ -60,45 +65,57 @@
 			</tr>
 			<tr>
 				<td>7</td>
-				<td>Hesham El Shimy</td>
-				<td>Green House as a Concept Design</td>
-				<td><a href="keynote_speeches/Hesham.pdf">Download</a></td>
+				<td>Said Salah Eldin Elnashaie</td>
+				<td>Sustainable Development Engineering</td>
+				<td><a href="keynote_speeches/Elnashaie.pdf">Download</a></td>
 			</tr>
 			<tr>
 				<td>8</td>
-				<td>Klas Engvall</td>
-				<td>Trends in Thermochemical conversion of waste and biomass</td>
-				<td><a href="keynote_speeches/Klas.pdf">Download</a></td>
-			</tr>
-			<tr>
-				<td>9</td>
-				<td>Caroline van der Weerdt, Richard Carmichael, Björn Palm</td>
-				<td>ICT for Community Energy</td>
-				<td><a href="keynote_speeches/CRB.pdf">Download</a></td>
-			</tr>
-			<tr>
-				<td>10</td>
-				<td>Björn Palm</td>
-				<td>Solar cooling – Status and perspectives</td>
-				<td><a href="keynote_speeches/Palm.pdf">Download</a></td>
-			</tr>
-			<tr>
-				<td>11</td>
 				<td>Radwan H. Abdel Hamid</td>
 				<td>Multipurpose Applications by Thermodynamic Solar</td>
 				<td><a href="keynote_speeches/Radwan.pdf">Download</a></td>
 			</tr>
 			<tr>
+				<td>9</td>
+				<td>Björn Laumert</td>
+				<td>Solar Power CSP</td>
+				<td><a href="keynote_speeches/Laumert.pdf">Download</a></td>
+			</tr>
+			<tr>
+				<td>10</td>
+				<td>Fahd Hashiesh</td>
+				<td>The Grid System Challenges & Mitigations</td>
+				<td><a href="keynote_speeches/Fahd.pdf">Download</a></td>
+			</tr>
+			<tr>
+				<td>11</td>
+				<td>Mark Howells, Dimitris Mentis, Francesco Fuso-Nerini, Oliver Broad, Constantinos Taliotis, Morgan Bazilian & Holger Rogner</td>
+				<td>African Energy Renaissance – An Immense Investment, Technology and Sustainable Development Prospect</td>
+				<td><a href="keynote_speeches/Howells.pdf">Download</a></td>
+			</tr>
+			<tr>
 				<td>12</td>
-				<td>Björn Palm</td>
-				<td>Future Energy Systems</td>
-				<td><a href="keynote_speeches/Palm_2.pdf">Download</a></td>
+				<td>Yohannes Kiros</td>
+				<td>Production of hydrogen and its use in fuel cells</td>
+				<td><a href="keynote_speeches/Kiros.pdf">Download</a></td>
 			</tr>
 			<tr>
 				<td>13</td>
-				<td>Alexandria Fertilizers Company</td>
-				<td>Energy Conservation Efforts in Ammonia-urea Fertilizer Plants</td>
-				<td><a href="keynote_speeches/AFC.pdf">Download</a></td>
+				<td>Hesham El Shimy</td>
+				<td>Green House as a Concept Design</td>
+				<td><a href="keynote_speeches/Hesham.pdf">Download</a></td>
+			</tr>
+			<tr>
+				<td>14</td>
+				<td>G. Engdahl</td>
+				<td>Electric Power Component Design</td>
+				<td><a href="keynote_speeches/Engdahl.pdf">Download</a></td>
+			</tr>
+			<tr>
+				<td>15</td>
+				<td>Klas Engvall</td>
+				<td>Trends in Thermochemical conversion of waste and biomass</td>
+				<td><a href="keynote_speeches/Klas.pdf">Download</a></td>
 			</tr>
 		</table>
 		</div>

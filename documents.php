@@ -14,44 +14,57 @@
 	    </div>
 
 	    <div class="row">
-	    	<div class="col-md-6">
+	    	<div class="col-md-4">
 	    		<img src="img/book.png" class="img-responsive" style="margin:0 auto;">
-	    		<h2 class="text-center">Book of Abstracts</h2>
+	    		<h3 class="text-center">Book of Abstracts</h3>
 	    		<div class="text-center">
 	    			<a class="btn btn-primary" href="abstract_book.pdf">Click here</a>
 	    		</div>
 	    	</div>
 
-	    	<div class="col-md-6">
-	    		<div class="col-md-6">
+	    	<div class="col-md-4">
 	    		<img src="img/paper.png" class="img-responsive" style="margin:0 auto;">
-	    		<h2 class="text-center">Conference Program</h2>
+	    		<h3 class="text-center">Conference Program</h3>
 	    		<div class="text-center">
 	    			<a class="btn btn-primary" href="program_3days.pdf">Click here</a>
 	    		</div>
-	    	</div>
 	    </div>
-	</div>
-	<br/>
-	    <div class="row">
-	    	<div class="col-md-6">
+
+	    <div class="col-md-4">
 	    		<img src="img/topicIcon.png" class="img-responsive" style="margin:0 auto;">
-	    		<h2 class="text-center">Conference Topics</h2>
+	    		<h3 class="text-center">Conference Topics</h3>
 	    		<div class="text-center">
 	    			<a class="btn btn-primary" href="topics.pdf">Click here</a>
 	    		</div>
 	    	</div>
-
-	    	<div class="col-md-6">
-	    		<div class="col-md-6">
+	</div>
+	<br/>
+	    <div class="row">
+	    	<div class="col-md-4">
 	    		<img src="img/brochure.png" class="img-responsive" style="margin:0 auto;">
-	    		<h2 class="text-center">Brochure 2</h2>
+	    		<h3 class="text-center">Brochure 2</h3>
 	    		<div class="text-center">
 	    			<a class="btn btn-primary" href="brochure2_web.pdf">Click here</a>
 	    		</div>
-	    	</div>
-	    </div>
-	</div>
+	   		 </div>
+
+	   		 <div class="col-md-4">
+	    		<img src="img/download.png" class="img-responsive" style="margin:0 auto;">
+	    		<h3 class="text-center">Late Arrivals</h3>
+	    		<div class="text-center">
+	    			<a class="btn btn-primary" href="keynote_speeches/Late.zip">Click here</a>
+	    		</div>
+	   		 </div>
+
+	   		 <div class="col-md-4">
+	    		<img src="img/speech.png" class="img-responsive" style="margin:0 auto;">
+	    		<h3 class="text-center">Keynote Speeches</h3>
+	    		<div class="text-center">
+	    			<a class="btn btn-primary" href="keynote_speeches.php">Click here</a>
+	    		</div>
+	   		 </div>
+
+		</div>
 
 </div>
 <?php include('footer.php'); ?>
