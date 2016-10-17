@@ -52,7 +52,7 @@
 	    		<img src="img/download.png" class="img-responsive" style="margin:0 auto;">
 	    		<h3 class="text-center">Late Arrivals</h3>
 	    		<div class="text-center">
-	    			<a class="btn btn-primary" href="keynote_speeches/Late.zip">Click here</a>
+	    			<a class="btn btn-primary" href="late_arrivals.php">Click here</a>
 	    		</div>
 	   		 </div>
 
